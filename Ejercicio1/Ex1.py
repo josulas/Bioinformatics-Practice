@@ -125,8 +125,8 @@ class GenBankReader():
         Save the specified ORF in FASTA format with accession ID in the header
         """
         if not hasattr(self, 'accession'):
-                print("\nNo accession ID found. Cannot create FASTA header.")
-                return
+            print("\nNo accession ID found. Cannot create FASTA header.")
+            return
         orfs_list = self.translate_orfs()
         if orf_index < 1 or orf_index > len(orfs_list):
             print(f"\nInvalid ORF index: {orf_index}. Must be between 1 and {len(orfs_list)}.")
