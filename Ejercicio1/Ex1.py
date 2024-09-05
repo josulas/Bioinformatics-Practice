@@ -153,8 +153,21 @@ class GenBankReader():
         print(f"\nORF{orf_index} was successfully saved to '{filename}' starting from the first 'M'.")
 
 
-# Using the script
+INSTRUCTIONS = """
+Instructions:
+- The transcription GenBank file is stored in the variable SEQ_FILENAME. Modiy this variable to
+change which file is being read.
+- Execute the script in the same directory as the GenBank file.
+- The script will load the GenBank file, extract the translation (if present), translate all the ORFs
+and save them to a .txt file. It will then find the ORF that contains the extracted translation.
+- The script will save the specified ORF in FASTA format with the accession ID in the header. To change
+which ORF is saved, modify the ORF_TO_SAVE variable.
+"""
+
+print(INSTRUCTIONS)
+
 SEQ_FILENAME = "transcript-1.gb"
+ORF_TO_SAVE = 2
 genbank_seq = GenBankReader(SEQ_FILENAME)
 genbank_seq.extract_translation()
 matching_orf = genbank_seq.find_matching_orf()
@@ -165,4 +178,4 @@ if matching_orf:
 else:
     print("\nNo matching ORF was found.")
 
-genbank_seq.save_orf_as_fasta(2)
+genbank_seq.save_orf_as_fasta(ORF_TO_SAVE)
