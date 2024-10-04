@@ -22,8 +22,8 @@ def get_dict_tags_and_seqs(root):
         id = hit.find('Hit_def').text
         seqs = []
         scores = []
-        get_list_match(root, seqs, 'Hsp_hseq')
-        get_list_match(root, scores, 'Hsp_score')
+        get_list_match(hit, seqs, 'Hsp_hseq')
+        get_list_match(hit, scores, 'Hsp_score')
         for index, seq in enumerate(seqs):
             list_output.append((id + f"; hsp_index: {index}", seq.text.replace('-', ''), int(scores[index].text)))
     return list_output
