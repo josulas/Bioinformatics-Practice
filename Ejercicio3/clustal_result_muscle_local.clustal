@@ -1,0 +1,639 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              LARGPLARLLLAWSALLCMAGGQGRWD----GALEAAGPGRVRRR--GSPGILQGPNVCG
+Mus_musculus_Fibrillin_2              -VRPAVAGSEGGF--MGPEYRDEGAVA-----------ASRVRRR--GQQEILRGPNVCG
+Homo_sapiens_Fibrillin_2              -VRSATAGSEGGF--LAPEYREEGAAV-----------ASRVRRR--GQQDVLRGPNVCG
+Mus_musculus_Fibrillin_1              MRRGGLLEVALAFALLLESYTSHGADANLEAGSLKETRANRAKRRGGGGHDALKGPNVCG
+Sus_scrofa_Fibrillin_1                MRRGRLLEVALGFTVLLASYTSHRAEANLEAGNGKETRASRAKRRGGGGHDALKGPNVCG
+Homo_sapiens_Fibrillin_1              MRRGRLLEIALGFTVLLASYTSHGADANLEAGNVKETRASRAKRRGGGGHDALKGPNVCG
+NM_000138.5_ORF2                      MRRGRLLEIALGFTVLLASYTSHGADANLEAGNVKETRASRAKRRGGGGHDALKGPNVCG
+Bos_taurus_Fibrillin_1                MRRGGLLEVALGFTVLLASYTSHGADTNLEAGNVKETRANRAKRRGGGGHDALKGPNVCG
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              SRFHAYCCPGWRTFPGRSQCVVPICRRACGEGFCSQPNLCTCADGTLAPSCGVSRGSGCS
+Mus_musculus_Fibrillin_2              SRFHSYCCPGWKTLPGGNQCIVPICRNSCGDGFCSRPNMCTCSSGQISPTCGAKSIQQCS
+Homo_sapiens_Fibrillin_2              SRFHSYCCPGWKTLPGGNQCIVPICRNSCGDGFCSRPNMCTCSSGQISSTCGSKSIQQCS
+Mus_musculus_Fibrillin_1              SRYNAYCCPGWKTLPGGNQCIVPICRHSCGDGFCSRPNMCTCPSGQISPSCGSRSIQHCS
+Sus_scrofa_Fibrillin_1                SRYNAYCCPGWKTLPGGNQCIVPICRHSCGDGFCSRPNMCTCPSGQIAPSCGSRSIQHCN
+Homo_sapiens_Fibrillin_1              SRYNAYCCPGWKTLPGGNQCIVPICRHSCGDGFCSRPNMCTCPSGQIAPSCGSRSIQHCN
+NM_000138.5_ORF2                      SRYNAYCCPGWKTLPGGNQCIVPICRHSCGDGFCSRPNMCTCPSGQIAPSCGSRSIQHCN
+Bos_taurus_Fibrillin_1                SRYNAYCCPGWKTLPGGNQCIVPICRHSCGDGFCSRPNMCTCPSGQIAPSCGSRSIQHCN
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              VSCMNGGTCRGASCLCQKGYTGTVCGQPICDRGCHNGGRCIGPNRCACVYGFMGPQCERD
+Mus_musculus_Fibrillin_2              VRCMNGGTCADDHCQCQKGYIGTYCGQPVCENGCQNGGRCIGPNRCACVYGFTGPQCERD
+Homo_sapiens_Fibrillin_2              VRCMNGGTCADDHCQCQKGYIGTYCGQPVCENGCQNGGRCIGPNRCACVYGFTGPQCERD
+Mus_musculus_Fibrillin_1              IRCMNGGSCSDDHCLCQKGYIGTHCGQPVCESGCLNGGRCVAPNRCACTYGFTGPQCERD
+Sus_scrofa_Fibrillin_1                IRCMNGGSCSDDHCLCQKGYIGTHCGQPVCESGCLNGGRCVAPNRCACTYGFTGPQCERD
+Homo_sapiens_Fibrillin_1              IRCMNGGSCSDDHCLCQKGYIGTHCGQPVCESGCLNGGRCVAPNRCACTYGFTGPQCERD
+NM_000138.5_ORF2                      IRCMNGGSCSDDHCLCQKGYIGTHCGQPVCESGCLNGGRCVAPNRCACTYGFTGPQCERD
+Bos_taurus_Fibrillin_1                IRCMNGGSCSDDHCLCQKGYIGTHCGQPVCESGCLNGGRCVAPNRCACTYGFTGPQCERD
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      --------------------------------------------------SHQQVIPHVY
+Mus_musculus_Latent_transforming      --------------------------------------------------SHQQLIPHVY
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              YRTGPCFGQVGPEGCQHQLTGLVCTKALCCATVGRAWGLPCELCPAQPHPCRRGFIPNIH
+Mus_musculus_Fibrillin_2              YRTGPCFTQVNNQMCQGQLTGIVCTKTLCCATIGRAWGHPCEMCPAQPQPCRRGFIPNIR
+Homo_sapiens_Fibrillin_2              YRTGPCFTQVNNQMCQGQLTGIVCTKTLCCATIGRAWGHPCEMCPAQPQPCRRGFIPNIR
+Mus_musculus_Fibrillin_1              YRTGPCFTVVSNQMCQGQLSGIVCTKTLCCATVGRAWGHPCEMCPAQPHPCRRGFIPNIR
+Sus_scrofa_Fibrillin_1                YRTGPCFTVVSNQMCQGQLSGIVCTKTLCCATVGRAWGHPCEMCPAQPHPCRRGFIPNIR
+Homo_sapiens_Fibrillin_1              YRTGPCFTVISNQMCQGQLSGIVCTKTLCCATVGRAWGHPCEMCPAQPHPCRRGFIPNIR
+NM_000138.5_ORF2                      YRTGPCFTVISNQMCQGQLSGIVCTKTLCCATVGRAWGHPCEMCPAQPHPCRRGFIPNIR
+Bos_taurus_Fibrillin_1                YRTGPCFTVISNQMCQGQLSGIVCTKTLCCATVGRAWGHPCEMCPAQPHPCRRGFIPNIR
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      PVAAKT------------------------------------------------------
+Mus_musculus_Latent_transforming      PVAAKT------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              TGACQDVDECQAVPGLCQGGSCVNMVGSFHCRCPVGHRLSDSSAACEDY-----------
+Mus_musculus_Fibrillin_2              TGACQDVDECQAIPGLCQGGNCINTVGSFECRCPAGHKQSETTQKCEDIDECSVIPGVCE
+Homo_sapiens_Fibrillin_2              TGACQDVDECQAIPGICQGGNCINTVGSFECRCPAGHKQSETTQKCEDIDECSIIPGICE
+Mus_musculus_Fibrillin_1              TGACQDVDECQAIPGMCQGGNCINTVGSFECKCPAGHKFNEVSQKCEDIDECSTIPGVCD
+Sus_scrofa_Fibrillin_1                TGACQDVDECQAIPGLCQGGNCINTVGSFECKCPAGHKFNEVSQKCEDIDECSTIPGICD
+Homo_sapiens_Fibrillin_1              TGACQDVDECQAIPGLCQGGNCINTVGSFECKCPAGHKLNEVSQKCEDIDECSTIPGICE
+NM_000138.5_ORF2                      TGACQDVDECQAIPGLCQGGNCINTVGSFECKCPAGHKLNEVSQKCEDIDECSTIPGICE
+Bos_taurus_Fibrillin_1                TGACQDVDECQAIPGLCQGGNCINTVGSFECKCPAGHKFNEVSQKCEDIDECSTIPGICD
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      -------------------------------QLGRCFQETIGSQCGKALPGLSKQEDCCG
+Mus_musculus_Latent_transforming      -------------------------------QLGRCFQETIGSQCGKALPGLSKQEDCCG
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              -------------------------------RAGACFSVLFGGRCAGDLAGHYTRRQCCC
+Mus_musculus_Fibrillin_2              TGDCSNTVGSYFCLCPRGFVTSTDGSRCIDQRAGTCFSGLVNGRCAQELPGRMAKAQCCC
+Homo_sapiens_Fibrillin_2              TGECSNTVGSYFCVCPRGYVTSTDGSRCIDQRTGMCFSGLVNGRCAQELPGRMTKMQCCC
+Mus_musculus_Fibrillin_1              GGECTNTVSSYFCKCPPGFYTSPDGTRCVDVRPGYCYTALANGRCSNQLPQSITKMQCCC
+Sus_scrofa_Fibrillin_1                GGECTNTVSSYFCKCPPGFYTSPDGTRCIDVRPGYCYTALTNGRCSNQLPQSITKMQCCC
+Homo_sapiens_Fibrillin_1              GGECTNTVSSYFCKCPPGFYTSPDGTRCIDVRPGYCYTALTNGRCSNQLPQSITKMQCCC
+NM_000138.5_ORF2                      GGECTNTVSSYFCKCPPGFYTSPDGTRCIDVRPGYCYTALTNGRCSNQLPQSITKMQCCC
+Bos_taurus_Fibrillin_1                GGECTNTVSSYFCKCPPGFYTSPDGTRCIDVRPGYCYTALANGRCSNQLPQSITKMQCCC
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      TVGTSW------------------------------------------------------
+Mus_musculus_Latent_transforming      TVGTSW------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              DRGRCW--AAGPVPELCPPRGSNEFQQLCAQRLPL--LPGHPGLFPGLLG-----FGSNG
+Mus_musculus_Fibrillin_2              EPGRCW--SIGTIPEACPVRGSEEYRRLCLDGLPMGGIPGSSVSRPGGTG-------STG
+Homo_sapiens_Fibrillin_2              EPGRCW--GIGTIPEACPVRGSEEYRRLCMDGLPMGGIPGSAGSRPGGTGGNGFAPSGNG
+Mus_musculus_Fibrillin_1              DLGRCWSPGVTVAPEMCPIRSTEDFNKLC--SVPL-VIPGRPEYPPPPIGPLPPVQ-PVP
+Sus_scrofa_Fibrillin_1                DVGRCWSPGVTVTPEMCPIRATEDFNKLC--SVPM-VVPERPGYPSPPLGPIPPVH-PVP
+Homo_sapiens_Fibrillin_1              DAGRCWSPGVTVAPEMCPIRATEDFNKLC--SVPM-VIPGRPEYPPPPLGPIPPVL-PVP
+NM_000138.5_ORF2                      DAGRCWSPGVTVAPEMCPIRATEDFNKLC--SVPM-VIPGRPEYPPPPLGPIPPVL-PVP
+Bos_taurus_Fibrillin_1                DVGRCWSPGVTVAPEMCPIRATEDFNKLC--SVPM-VIPERPGYPPPPLGPVPPVQ-PVP
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              MGPPLGPARLNPHG-----SDARGIPSLGPGNSN---IGTATLNQTIDICRHFTNLCLNG
+Mus_musculus_Fibrillin_2              NGYGPGGTGFLPIPGDNGFSPGVGGAGVGAGGQGPIITGLTILNQTIDICKHHANLCLNG
+Homo_sapiens_Fibrillin_2              NGYGPGGTGFIPIPGGNGFSPGVGGAGVGAGGQGPIITGLTILNQTIDICKHHANLCLNG
+Mus_musculus_Fibrillin_1              PGYPPGPV--IPAP-----RPPPEYPYPSPSREPPRVLPFNV----TDYCQLVRYLCQNG
+Sus_scrofa_Fibrillin_1                PGFPPGPQ--IPVP-----RPPVEYPY--PSREPPRVLPVNV----TDYCQLFRYLCHNG
+Homo_sapiens_Fibrillin_1              PGFPPGPQ--IPVP-----RPPVEYLY--PSREPPRVLPVNV----TDYCQLVRYLCQNG
+NM_000138.5_ORF2                      PGFPPGPQ--IPVP-----RPPVEYLY--PSREPPRVLPVNV----TDYCQLVRYLCQNG
+Bos_taurus_Fibrillin_1                PGFPPGPQ--IMIP-----RPPVEYPY--PSREPPRVLPVNV----TDYCQLFRYLCQNG
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ------GFNKCQ-----------------KCPKKPSYHGY------NQMMECLPGYKRV-
+Mus_musculus_Latent_transforming      ------GFNKCQ-----------------KCPKKQSYHGY------TQMMECLQGYKRV-
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              RCLPTPSSYRCECNVGYTQDVRGECIDVDECTSSPCHHGDCVNIPGTYHCRCYPGFQATP
+Mus_musculus_Fibrillin_2              RCIPTVSSYRCECNMGYKQDANGDCIDVDECTSNPCSNGDCVNTPGSYYCKCHAGFQRTP
+Homo_sapiens_Fibrillin_2              RCIPTVSSYRCECNMGYKQDANGDCIDVDECTSNPCTNGDCVNTPGSYYCKCHAGFQRTP
+Mus_musculus_Fibrillin_1              RCIPTPGSYRCECNKGFQLDIRGECIDVDECEKNPCTGGECINNQGSYTCHCRAGYQSTL
+Sus_scrofa_Fibrillin_1                RCIPTPGSYRCECNKGFQLDLRGECIDVDECEKNPCAGGECINNQGSYTCQCRPGYQSTL
+Homo_sapiens_Fibrillin_1              RCIPTPGSYRCECNKGFQLDLRGECIDVDECEKNPCAGGECINNQGSYTCQCRAGYQSTL
+NM_000138.5_ORF2                      RCIPTPGSYRCECNKGFQLDLRGECIDVDECEKNPCAGGECINNQGSYTCQCRAGYQSTL
+Bos_taurus_Fibrillin_1                RCIPTPGSYRCECNKGFQLDLRGECIDVDECEKNPCAGGECINTQGSYTCQCRPGYQSTL
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              TRQACVDVDECIVSGGLCHLGRCVNTEGSFQCVCNAGFELSPDGKNCVDHNECATSTMCV
+Mus_musculus_Fibrillin_2              TKQACIDIDECIQNGVLCKNGRCVNTDGSFQCICNAGFELTTDGKNCVDHDECTTTNMCL
+Homo_sapiens_Fibrillin_2              TKQACIDIDECIQNGVLCKNGRCVNTDGSFQCICNAGFELTTDGKNCVDHDECTTTNMCL
+Mus_musculus_Fibrillin_1              TRTECRDIDECLQNGRICNNGRCINTDGSFHCVCNAGFHVTRDGKNCEDMDECSIRNMCL
+Sus_scrofa_Fibrillin_1                TRTECRDIDECLQNGRICNNGRCINTDGSFHCVCNAGFHVTRDGKNCEDMDECSIRNMCL
+Homo_sapiens_Fibrillin_1              TRTECRDIDECLQNGRICNNGRCINTDGSFHCVCNAGFHVTRDGKNCEDMDECSIRNMCL
+NM_000138.5_ORF2                      TRTECRDIDECLQNGRICNNGRCINTDGSFHCVCNAGFHVTRDGKNCEDMDECSIRNMCL
+Bos_taurus_Fibrillin_1                TRTECRDIDECLQNGRICNNGRCINTDGSFHCVCNAGFHVTRDGKNCEDMDECSIRNMCL
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      -----------------------NNTFCQDINECQLQGVCPNGECLNTMGSYRCTC----
+Mus_musculus_Latent_transforming      -----------------------NNTFCQDINECQLQGVCPNGECLNTMGSYRCSC----
+Rattus_norvegicus_Latent_transfo      ---------------------------CQDINECQLQGVCPNGECLNTMGSYRCSC----
+Homo_sapiens_Fibrillin_3              NGVCLNEDGSFSCLCKPGFLLAPGGHYCMDIDECQTPGICVNGHCTNTEGSFRCQCLGGL
+Mus_musculus_Fibrillin_2              NGMCINEDGSFKCVCKPGFILAPNGRYCTDVDECQTPGICMNGHCINNEGSFRCDCPPGL
+Homo_sapiens_Fibrillin_2              NGMCINEDGSFKCICKPGFVLAPNGRYCTDVDECQTPGICMNGHCINSEGSFRCDCPPGL
+Mus_musculus_Fibrillin_1              NGMCINEDGSFKCICKPGFQLASDGRYCKDINECETPGICMNGRCVNTDGSYRCECFPGL
+Sus_scrofa_Fibrillin_1                NGMCINEDGSFKCICKPGFQLASDGRYCKDINECETSGICMNGRCVNTDGSYRCECFPGL
+Homo_sapiens_Fibrillin_1              NGMCINEDGSFKCICKPGFQLASDGRYCKDINECETPGICMNGRCVNTDGSYRCECFPGL
+NM_000138.5_ORF2                      NGMCINEDGSFKCICKPGFQLASDGRYCKDINECETPGICMNGRCVNTDGSYRCECFPGL
+Bos_taurus_Fibrillin_1                NGMCINEDGSFKCICKPGFQLASDGRYCKDINECETPGICMNGRCVNTDGSYRCECFPGL
+                                                                 * *::**:  *:* ** * *. **:** *    
+
+Homo_sapiens_Latent_transforming      ---------------------------------------------KIGFG----PDPTFS
+Mus_musculus_Latent_transforming      ---------------------------------------------KMGFG----PDPTFS
+Rattus_norvegicus_Latent_transfo      ---------------------------------------------KMGFG----PDPTFS
+Homo_sapiens_Fibrillin_3              AVGTDGRVCVDTHVRSTCYGAIEKGSCARPFPGTVTKSECCCANPDHGFGEPCQLCPAKD
+Mus_musculus_Fibrillin_2              AVGVDGRVCVDTHMRSTCYGEIKKGVCVRPFPGAVTKSECCCANPDYGFGEPCQPCPAKN
+Homo_sapiens_Fibrillin_2              AVGMDGRVCVDTHMRSTCYGGIKKGVCVRPFPGAVTKSECCCANPDYGFGEPCQPCPAKN
+Mus_musculus_Fibrillin_1              AVGLDGRVCVDTHMRSTCYGGYRRGQCVKPLFGAVTKSECCCASTEYAFGEPCQPCPAQN
+Sus_scrofa_Fibrillin_1                AVGLDGRVCVDTHMRSTCYGGYKRGQCVKPLFGAVTKSECCCASTEYAFGEPCQPCPSQN
+Homo_sapiens_Fibrillin_1              AVGLDGRVCVDTHMRSTCYGGYKRGQCIKPLFGAVTKSECCCASTEYAFGEPCQPCPAQN
+NM_000138.5_ORF2                      AVGLDGRVCVDTHMRSTCYGGYKRGQCIKPLFGAVTKSECCCASTEYAFGEPCQPCPAQN
+Bos_taurus_Fibrillin_1                AVGLDGRVCVDTHMRSTCYGGYKRGQCVKPLFGAVTKSECCCASTEYAFGEPCQPCPSQN
+                                                                                   . .**      *: .
+
+Homo_sapiens_Latent_transforming      S----------------------CVPDPPV------------------------------
+Mus_musculus_Latent_transforming      S----------------------CVPDPPV------------------------------
+Rattus_norvegicus_Latent_transfo      S----------------------CVPDPPM------------------------------
+Homo_sapiens_Fibrillin_3              SAEFQALCSSGLGITTDGRDINECALDPEVCANGVCENLRGSYRCVCNLGYEAGASGKDC
+Mus_musculus_Fibrillin_2              SAEFHGLCSSGIGITVDGRDINECALDPDICANGICENLRGSYRCNCNSGYEPDASGRNC
+Homo_sapiens_Fibrillin_2              SAEFHGLCSSGVGITVDGRDINECALDPDICANGICENLRGSYRCNCNSGYEPDASGRNC
+Mus_musculus_Fibrillin_1              SAEYQALCSSGPGMTSAGTDINECALDPDICPNGICENLRGTYKCICNSGYEVDITGKNC
+Sus_scrofa_Fibrillin_1                SAEYQALCSSGPGMTSAGSDINECALDPDICPNGICENLRGTYKCICNSGYEVDSTGKNC
+Homo_sapiens_Fibrillin_1              SAEYQALCSSGPGMTSAGSDINECALDPDICPNGICENLRGTYKCICNSGYEVDSTGKNC
+NM_000138.5_ORF2                      SAEYQALCSSGPGMTSAGSDINECALDPDICPNGICENLRGTYKCICNSGYEVDSTGKNC
+Bos_taurus_Fibrillin_1                SAEYQALCSSGPGITSAGSDINECALDPDICPNGICENLRGTYKCICNSGYEVDSTGKNC
+                                      *                      *. ** :                              
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              TDVDECALNSLLCDNGWCQNSPGSYSCSCPPGFHFWQDTEICKDVDECLSSPCVSGVCRN
+Mus_musculus_Fibrillin_2              IDIDECLVNRLLCDNGLCRNTPGSYSCTCPPGYVFRTETETCEDVNECESNPCVNGACRN
+Homo_sapiens_Fibrillin_2              IDIDECLVNRLLCDNGLCRNTPGSYSCTCPPGYVFRTETETCEDINECESNPCVNGACRN
+Mus_musculus_Fibrillin_1              VDINECVLNSLLCDNGQCRNTPGSFVCTCPKGFVYKPDLKTCEDIDECESSPCINGVCKN
+Sus_scrofa_Fibrillin_1                VDINECVLNSLLCDNGQCRNTPGSFVCTCPKGFIYKPDLKTCEDIDECESSPCINGVCKN
+Homo_sapiens_Fibrillin_1              VDINECVLNSLLCDNGQCRNTPGSFVCTCPKGFIYKPDLKTCEDIDECESSPCINGVCKN
+NM_000138.5_ORF2                      VDINECVLNSLLCDNGQCRNTPGSFVCTCPKGFIYKPDLKTCEDIDECESSPCINGVCKN
+Bos_taurus_Fibrillin_1                VDINECVLNSLLCDNGQCRNTPGSFVCTCPKGFIYKPELKTCEDIDECESSPCINGVCKN
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ----------------------ISEEKGPCYRLVSSGR----------------------
+Mus_musculus_Latent_transforming      ----------------------ISEEKGPCYRLVSPGR----------------------
+Rattus_norvegicus_Latent_transfo      ----------------------ISEEKGPCYRLVSPGR----------------------
+Homo_sapiens_Fibrillin_3              LAGSYTCKCGPGSRLDPSGTFCLDSTKGTCWLKIQESRCEVNLQGASLRSECCATLGAAW
+Mus_musculus_Fibrillin_2              NLGSFHCECSPGSKLSSTGLICIDSLKGTCWLNIQDNRCEVNINGATLKSECCATLGAAW
+Homo_sapiens_Fibrillin_2              NLGSFNCECSPGSKLSSTGLICIDSLKGTCWLNIQDSRCEVNINGATLKSECCATLGAAW
+Mus_musculus_Fibrillin_1              SPGSFICECSPESTLDPTKTICIETIKGTCWQTVIDGRCEININGATLKSECCSSLGAAW
+Sus_scrofa_Fibrillin_1                SPGSFICECSSESTLDPTKTICIETIKGTCWQTIIDGRCEININGATLKSQCCSSLGAAW
+Homo_sapiens_Fibrillin_1              SPGSFICECSSESTLDPTKTICIETIKGTCWQTVIDGRCEININGATLKSQCCSSLGAAW
+NM_000138.5_ORF2                      SPGSFICECSSESTLDPTKTICIETIKGTCWQTVIDGRCEININGATLKSQCCSSLGAAW
+Bos_taurus_Fibrillin_1                SPGSFICECSSESTLDPTKTICIETIKGTCWQTVIDGRCEININGATLKSQCCSSLGAAW
+                                                            :.  **.*:  :  .*                      
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              GSPCERCEIDPACARGFARMTGVTCDDVNECESFPGVCPNGRCVNTAGSFRCECPEGLML
+Mus_musculus_Fibrillin_2              GSPCERCELDAACPRGFARIKGVTCEDVNECEVFPGVCPNGRCVNSKGSFHCECPEGLTL
+Homo_sapiens_Fibrillin_2              GSPCERCELDTACPRGLARIKGVTCEDVNECEVFPGVCPNGRCVNSKGSFHCECPEGLTL
+Mus_musculus_Fibrillin_1              GSPCTICQLDPICGKGFSRIKGTQCEDINECEVFPGVCKNGLCVNSRGSFKCECPNGMTL
+Sus_scrofa_Fibrillin_1                GSPCTPCQVDPICGKGYSRIKGTQCEDIDECEVFPGVCKNGLCVNSKGSFKCQCPNGMTL
+Homo_sapiens_Fibrillin_1              GSPCTLCQVDPICGKGYSRIKGTQCEDIDECEVFPGVCKNGLCVNTRGSFKCQCPSGMTL
+NM_000138.5_ORF2                      GSPCTLCQVDPICGKGYSRIKGTQCEDIDECEVFPGVCKNGLCVNTRGSFKCQCPSGMTL
+Bos_taurus_Fibrillin_1                GSPCTPCQVDPICGKGYSRIKGTQCEDIDECEVFPGVCKNGLCVNSKGSFKCQCPSGMTL
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ----------------------QCMHPLSVHLTKQLCCCSVGKAWGP-HCEKCPLPGTAA
+Mus_musculus_Latent_transforming      ----------------------HCMHPLSVHLTKQICCCSVGKAWGP-HCEKCPLPGTAA
+Rattus_norvegicus_Latent_transfo      ----------------------QCMHPLSVHLTKQICCCSVGKAWGP-QCEKCPLPGTAA
+Homo_sapiens_Fibrillin_3              DASGRLCVDVRLEPCFLRWDEDECGVTLPGKYRMDVCCCSIGAVWGV-ECEACPDPESLE
+Mus_musculus_Fibrillin_2              DGTGRVCLDIRMEHCFLKWDEDECIHPVPGKFRMDACCCAVGAAWGT-ECEECPKPGTKE
+Homo_sapiens_Fibrillin_2              DGTGRVCLDIRMEQCYLKWDEDECIHPVPGKFRMDACCCAVGAAWGT-ECEECPKPGTKE
+Mus_musculus_Fibrillin_1              DATGRICLDIRLETCFLKYDDEECTLPIAGRHRMDACCCSVGAAWGTEECEECPLRNSRE
+Sus_scrofa_Fibrillin_1                DATGRICLDIRLETCFLRYEDEECTLPVVGRHRMDACCCSVGAAWGTEECEECPPRNTPE
+Homo_sapiens_Fibrillin_1              DATGRICLDIRLETCFLRYEDEECTLPIAGRHRMDACCCSVGAAWGTEECEECPMRNTPE
+NM_000138.5_ORF2                      DATGRICLDIRLETCFLRYEDEECTLPIAGRHRMDACCCSVGAAWGTEECEECPMRNTPE
+Bos_taurus_Fibrillin_1                DATGRICLDIRLETCFLRYEDEECTLPVAGRHRMDACCCSVGAAWGTEECEECPVRNTPE
+                                                             *  .:  .   : ***::* .**   ** **   :  
+
+Homo_sapiens_Latent_transforming      FKEICPGGMGYTVSG-VHRRRPIHHHVGKGPVF---------------------------
+Mus_musculus_Latent_transforming      FKEICPGGMGYTVSG-VHRRRPIHQHIGKEAVY---------------------------
+Rattus_norvegicus_Latent_transfo      FKEICPGGMGYTVSG-IHRRRPIHQHIGKEAVF---------------------------
+Homo_sapiens_Fibrillin_3              FASLCPRGLGFASRD-FLSGRPFYKDVNECKVFPGLCTHGTCRNTVGSFHCACAGGFALD
+Mus_musculus_Fibrillin_2              YETLCPRGPGFANRGDILTGRPFYKDINECKAFPGMCTYGKCRNTIGSFKCRCNNGFALD
+Homo_sapiens_Fibrillin_2              YETLCPRGAGFANRGDVLTGRPFYKDINECKAFPGMCTYGKCRNTIGSFKCRCNSGFALD
+Mus_musculus_Fibrillin_1              YEELCPRGPGFATKD-ITNGKPFFKDINECKMIPSLCTHGKCRNTIGSFKCRCDSGFALD
+Sus_scrofa_Fibrillin_1                YEELCPRGPGFATKE-ITNGKPFFKDINECKMIPNLCTHGKCRNTIGSFKCRCDSGFALD
+Homo_sapiens_Fibrillin_1              YEELCPRGPGFATKE-ITNGKPFFKDINECKMIPSLCTHGKCRNTIGSFKCRCDSGFALD
+NM_000138.5_ORF2                      YEELCPRGPGFATKE-ITNGKPFFKDINECKMIPSLCTHGKCRNTIGSFKCRCDSGFALD
+Bos_taurus_Fibrillin_1                YEELCPRGPGFATKE-ITNGKRFFKDINECKMIPNLCTHGKCRNTIGSFKCRCDSGFALD
+                                      :  :** * *::    .   . :.: :.:                               
+
+Homo_sapiens_Latent_transforming      VKPKNTQPVAKSTHPPPLPAKEEPVEA------------------LTFSREHGPGVAEPE
+Mus_musculus_Latent_transforming      VKPKNTQPVAKSTHPPPLPAKEEPVEA------------------LTSSWEHGPRGAEPE
+Rattus_norvegicus_Latent_transfo      VKPKNTQPVAKSTHPPPLPAKEEPVEA------------------LTSSREHGPGVAEPE
+Homo_sapiens_Fibrillin_3              AQERNCTDIDECRISPDLCGQGTCVNTPGSFECECFPGYESGFMLMKNCMDVDECARDPL
+Mus_musculus_Fibrillin_2              MEERNCTDIDECRISPDLCGSGICVNTPGSFECECFEGYESGFMMMKNCMDIDECERNPL
+Homo_sapiens_Fibrillin_2              MEERNCTDIDECRISPDLCGSGICVNTPGSFECECFEGYESGFMMMKNCMDIDECERNPL
+Mus_musculus_Fibrillin_1              SEERNCTDIDECRISPDLCGRGQCVNTPGDFECKCDEGYESGFMMMKNCMDIDECQRDPL
+Sus_scrofa_Fibrillin_1                SEERNCIDIDECRISPDLCGRGQCVNTPGDFECKCDEGYESGFMMMKNCMDIDECQRDPL
+Homo_sapiens_Fibrillin_1              SEERNCTDIDECRISPDLCGRGQCVNTPGDFECKCDEGYESGFMMMKNCMDIDECQRDPL
+NM_000138.5_ORF2                      SEERNCTDIDECRISPDLCGRGQCVNTPGDFECKCDEGYESGFMMMKNCMDIDECQRDPL
+Bos_taurus_Fibrillin_1                SEERNCTDIDECRISPDLCGRGQCVNTPGDFECKCDEGYESGFMMMKNCMDIDECQRDPL
+                                       : .*   : :.  .* * .    *::                  :. . : .    :* 
+
+Homo_sapiens_Latent_transforming      V--------------ATAPPEKEIP-----SLDQEKTKLEPGQPQLSPGISTIHLHPQFP
+Mus_musculus_Latent_transforming      V--------------VTAPPEKEIP-----SLDQEKTRLEPGQPQLSPGVSTIHLHPQFP
+Rattus_norvegicus_Latent_transfo      V--------------VTAPPEKEIP-----SLDQEKTRLEPGQPQLSPGVSTIHLHPQFP
+Homo_sapiens_Fibrillin_3              LCRGGTCTNTDGSYKCQCPPGHELTAKGTACEDIDECSLSDG---LCPHGQCVNVIGAFQ
+Mus_musculus_Fibrillin_2              LCRGGTCVNTEGSFQCDCPLGHELSPSREDCVDINECSLSDN---LCRNGKCVNMIGTYQ
+Homo_sapiens_Fibrillin_2              LCRGGTCVNTEGSFQCDCPLGHELSPSREDCVDINECSLSDN---LCRNGKCVNMIGTYQ
+Mus_musculus_Fibrillin_1              LCRGGICHNTEGSYRCECPPGHQLSPNISACIDINECELSAN---LCPHGRCVNLIGKYQ
+Sus_scrofa_Fibrillin_1                LCRGGVCLNTEGSYRCECPSGHQMSPNISACIDINECELSAH---LCPHGRCVNLIGKYQ
+Homo_sapiens_Fibrillin_1              LCRGGVCHNTEGSYRCECPPGHQLSPNISACIDINECELSAH---LCPNGRCVNLIGKYQ
+NM_000138.5_ORF2                      LCRGGVCHNTEGSYRCECPPGHQLSPNISACIDINECELSAH---LCPNGRCVNLIGKYQ
+Bos_taurus_Fibrillin_1                LCRGGVCLNTEGSYRCECPPGHQLAPNISACIDINECELSAH---LCPHGRCVNLIGKYQ
+                                      :                .*  :::.     . * ::  *.     *.     :::   : 
+
+Homo_sapiens_Latent_transforming      VVIEKTSPPVP-----VEV---------------APEASTSSASQ---VIAPTQ--VTEI
+Mus_musculus_Latent_transforming      VVVEKTSPPVP-----VEV---------------APEASTSSASQ---VIAPTQ--VTEI
+Rattus_norvegicus_Latent_transfo      VVVEKTSPPVP-----VEV---------------APEGSTSSASQ---VIAPTQ--VTEI
+Homo_sapiens_Fibrillin_3              CSCHAGFQSTPDRQGCVDINECRVQNGGCDVHCINTEGSYRCSCGQGYSLMPDGRACADV
+Mus_musculus_Fibrillin_2              CSCNPGYQATPDRQGCTDIDECMIMNGGCDTQCTNSEGSYECSCSEGYALMPDGRSCADI
+Homo_sapiens_Fibrillin_2              CSCNPGYQATPDRQGCTDIDECMIMNGGCDTQCTNSEGSYECSCSEGYALMPDGRSCADI
+Mus_musculus_Fibrillin_1              CACNPGYHPTHDRLFCVDIDECSIMNGGCETFCTNSDGSYECSCQPGFALMPDQRSCTDI
+Sus_scrofa_Fibrillin_1                RARNPGYHSTPDRLFCVDIDECSIMNGGCETFCTNSEGSYECSCQPGFALMPDQRSCTDI
+Homo_sapiens_Fibrillin_1              CACNPGYHSTPDRLFCVDIDECSIMNGGCETFCTNSEGSYECSCQPGFALMPDQRSCTDI
+NM_000138.5_ORF2                      CACNPGYHSTPDRLFCVDIDECSIMNGGCETFCTNSEGSYECSCQPGFALMPDQRSCTDI
+Bos_taurus_Fibrillin_1                CACNPGYHSTPDRLFCVDIDECSIMNGGCETFCTNSEGSYECSCQPGFALMPDQRSCTDI
+                                              ..      .::                .:.*  .:.     : *     :::
+
+Homo_sapiens_Latent_transforming      NECTVNPDICGAGHCINLPVRYTCICYEGYRFSEQQRKCVDIDECTQVQHLCSQGRCENT
+Mus_musculus_Latent_transforming      NECTVNPDICGAGHCINLPVRYTCICYEGYKFSEQLRKCVDIDECAQVRHLCSQGRCENT
+Rattus_norvegicus_Latent_transfo      NECTVNPDICGAGHCINLPVRYTCICYEGYKFSEQQRKCIDIDECAQAQHLCSQGRCENT
+Homo_sapiens_Fibrillin_3              DECEENPRVCDQGHCTNMPGGHRCLCYDGFMATPDMRTCVDVDECDLNPHICLHGDCENT
+Mus_musculus_Fibrillin_2              DECENNPDICDGGQCTNIPGEYRCLCYDGFMASMDMKTCIDVNECDLNPNICMFGECENT
+Homo_sapiens_Fibrillin_2              DECENNPDICDGGQCTNIPGEYRCLCYDGFMASMDMKTCIDVNECDLNSNICMFGECENT
+Mus_musculus_Fibrillin_1              DECEDNPNICDGGQCTNIPGEYRCLCYDGFMASEDMKTCVDVNECDLNPNICLSGTCENT
+Sus_scrofa_Fibrillin_1                DECEDNPNICDGGQCTNIPGEYRCLCYDGFMASEDMKTCVDVNECDLNPNICLSGTCENT
+Homo_sapiens_Fibrillin_1              DECEDNPNICDGGQCTNIPGEYRCLCYDGFMASEDMKTCVDVNECDLNPNICLSGTCENT
+NM_000138.5_ORF2                      DECEDNPNICDGGQCTNIPGEYRCLCYDGFMASEDMKTCVDVNECDLNPNICLSGTCENT
+Bos_taurus_Fibrillin_1                DECEDNPNICDGGQCTNIPGEYRCLCYDGFMASEDMKTCVDVNECDLNPNICLSGTCENT
+                                      :**  ** :*. *:* *:*  : *:**:*:  : : ..*:*::**    ::*  * ****
+
+Homo_sapiens_Latent_transforming      EGSFLCICPAGFMASEEGTNCIDVDEC-LRPDVC-GEGHCVNTVGAFRCEYCDSGYRMTQ
+Mus_musculus_Latent_transforming      EGSFLCVCPAGFMASEEGTNCIDVDEC-LRPDMC-RDGRCINTAGAFRCEYCDSGYRMSR
+Rattus_norvegicus_Latent_transfo      EGSFLCICPAGFIASEEGSNCIDVDEC-LRPDVC-RDGRCINTAGAFRCEYCDSGYRMSR
+Homo_sapiens_Fibrillin_3              KGSFVCHCQLGYMVRKGATGCSDVDECEVGGHNCDSHASCLNIPGSFSCR-CLPGW-VGD
+Mus_musculus_Fibrillin_2              KGSFICHCQLGYSVKKGTTGCTDVDECEIGAHNCDMHASCLNVPGSFKCS-CREGW-VGN
+Homo_sapiens_Fibrillin_2              KGSFICHCQLGYSVKKGTTGCTDVDECEIGAHNCDMHASCLNIPGSFKCS-CREGW-IGN
+Mus_musculus_Fibrillin_1              KGSFICHCDMGYSGKKGKTGCTDINECEIGAHNCGRHAVCTNTAGSFKCS-CSPGW-IGD
+Sus_scrofa_Fibrillin_1                KGSFICHCDMGYSGKKGKTGCTDINECEIGAHNCDRHAVCTNTAGSFNCS-CSPGW-IGD
+Homo_sapiens_Fibrillin_1              KGSFICHCDMGYSGKKGKTGCTDINECEIGAHNCGKHAVCTNTAGSFKCS-CSPGW-IGD
+NM_000138.5_ORF2                      KGSFICHCDMGYSGKKGKTGCTDINECEIGAHNCGKHAVCTNTAGSFKCS-CSPGW-IGD
+Bos_taurus_Fibrillin_1                KGSFICHCDMGYSGKKGKTGCTDINECEIGAHNCDRHAVCTNTAGSFKCS-CSPGW-IGD
+                                      :***:* *  *:   :  :.* *::** :    *   . * *  *:* *  *  *: :  
+
+Homo_sapiens_Latent_transforming      RGRCEDIDECLNPS--TCPDEQCVNSPGSYQCVPCTEGFRGWNGQCLDVDECLEP-NVCA
+Mus_musculus_Latent_transforming      RGYCEDIDECLKPS--TCPEEQCVNTPGSYQCVPCTEGFRGWNGQCLDVDECLQP-KVCT
+Rattus_norvegicus_Latent_transfo      RGHCEDIDECLTPS--TCPEEQCVNSPGSYQCVPCTEGFRGWNGQCLDVDECLQP-KVCT
+Homo_sapiens_Fibrillin_3              GFECHDLDECVSQEHRCSPRGDCLNVPGSYRCT-CRQGFAGDGFFCEDRDECAENVDLCD
+Mus_musculus_Fibrillin_2              GIKCIDLDECANGTHQCSINAQCVNTPGSYRCA-CSEGFTGDGFTCSDVDECAENTNLCE
+Homo_sapiens_Fibrillin_2              GIKCIDLDECSNGTHQCSINAQCVNTPGSYRCA-CSEGFTGDGFTCSDVDECAENINLCE
+Mus_musculus_Fibrillin_1              GIKCTDLDECSNGTHMCSQHADCKNTMGSYRCL-CKDGYTGDGFTCTDLDECSENLNLCG
+Sus_scrofa_Fibrillin_1                GIKCTDLDECSNGTHMCSQHADCKNTMGSYRCL-CKEGYTGDGFTCADLDECSENVKLCG
+Homo_sapiens_Fibrillin_1              GIKCTDLDECSNGTHMCSQHADCKNTMGSYRCL-CKEGYTGDGFTCTDLDECSENLNLCG
+NM_000138.5_ORF2                      GIKCTDLDECSNGTHMCSQHADCKNTMGSYRCL-CKEGYTGDGFTCTDLDECSENLNLCG
+Bos_taurus_Fibrillin_1                GIKCTDLDECSNGTHMCSQHADCKNTMGSYRCL-CKEGYTGDGFTCTDLDECSENLNLCG
+                                         * *:*** .     .   :* *  ***.*  * :*: * .  * * *** :  .:* 
+
+Homo_sapiens_Latent_transforming      NGDCSNLEGSYMCSCHKGYTRTPDHKHCRDIDECQQGNLCVNGQCKNTEGSFRCTCGQGY
+Mus_musculus_Latent_transforming      NGSCTNLEGSYMCSCHRGYSPTPDHRHCQDIDECQQGNLCMNGQCRNTDGSFRCTCGQGY
+Rattus_norvegicus_Latent_transfo      NGSCTNLEGSYMCSCHKGYSPTPDHRHCQDIDECQQGNLCMNGQCKNTDGSFRCTCGQGY
+Homo_sapiens_Fibrillin_3              NGQCLNAPGGYRCECEMGFDPTEDHRACQDVDECAQGNLCAFGSCENLPGMFRCICNGGY
+Mus_musculus_Fibrillin_2              NGQCLNVPGAYRCECEMGFTPASDSRSCQDIDECSFQNICVFGTCNNLPGMFHCICDDGY
+Homo_sapiens_Fibrillin_2              NGQCLNVPGAYRCECEMGFTPASDSRSCQDIDECSFQNICVFGTCNNLPGMFHCICDDGY
+Mus_musculus_Fibrillin_1              NGQCLNAPGGYRCECDMGFVPSADGKACEDIDECSLPNICVFGTCHNLPGLFRCECEIGY
+Sus_scrofa_Fibrillin_1                NVQCLYAPGGYHCEYDMGFVPSADRKSCVDSDECSLPNICVFGTCHNLPGLFRCECEIGY
+Homo_sapiens_Fibrillin_1              NGQCLNAPGGYRCECDMGFVPSADGKACEDIDECSLPNICVFGTCHNLPGLFRCECEIGY
+NM_000138.5_ORF2                      NGQCLNAPGGYRCECDMGFVPSADGKACEDIDECSLPNICVFGTCHNLPGLFRCECEIGY
+Bos_taurus_Fibrillin_1                NGQCLNAPGGYRCECDMGFVPSADGKACEDIDECSLPNICVFGTCHNLPGLFRCECEIGY
+                                      * .*    *.* *.   *:  : * . * * ***   *:*  * * *  * *.* *  **
+
+Homo_sapiens_Latent_transforming      QLSAAKDQCEDIDECQHRHLCAHGQCRNTEGSFQCVCDQGYRASGLGDHC----------
+Mus_musculus_Latent_transforming      QLSAAKDQCEDIDECEHHHLCSHGQCRNTEGSFQCVCNQGYRASVLGDHC----------
+Rattus_norvegicus_Latent_transfo      QLSAAKDQCEDIDECEHRHLCSHGQCRNTEGSFQCLCNQGYRASVLGDHC----------
+Homo_sapiens_Fibrillin_3              ELDRGGGNCTDINECADPVNCINGVCINTPGSYLCSCPQDFELNPSGVGCVDTRAGNCFL
+Mus_musculus_Fibrillin_2              ELDRTGGNCTDIDECADPINCVNGLCVNTPGRYECNCPPDFQLNPTGVGCVDNRVGNCYL
+Homo_sapiens_Fibrillin_2              ELDRTGGNCTDIDECADPINCVNGLCVNTPGRYECNCPPDFQLNPTGVGCVDNRVGNCYL
+Mus_musculus_Fibrillin_1              ELDRSGGNCTDVNECLDPTTCISGNCVNTPGSYTCDCPPDFELNPTRVGCVDTRSGNCYL
+Sus_scrofa_Fibrillin_1                ELDRSGGNCTDVNECLEPPTCISGNCVNTPGSYTCVCPPDFELNPTRVGCVDTRSGNCYL
+Homo_sapiens_Fibrillin_1              ELDRSGGNCTDVNECLDPTTCISGNCVNTPGSYICDCPPDFELNPTRVGCVDTRSGNCYL
+NM_000138.5_ORF2                      ELDRSGGNCTDVNECLDPTTCISGNCVNTPGSYICDCPPDFELNPTRVGCVDTRSGNCYL
+Bos_taurus_Fibrillin_1                ELDRSGGNCTDVNECLDPTTCISGNCVNTPGSYTCDCPPDFELNPTRVGCVDTRSGNCYL
+                                      :*.   .:* *::**     *  * * ** * : * *  .:  .     *          
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              ETHDRGDSG-ISCSAEIGVGVTRASCCCSLGRAWGNPCELCPMANTTEYRTLCPGGEGFQ
+Mus_musculus_Fibrillin_2              KFGPRGD-GSLSCNTEVGVGVSRSSCCCSLGKAWGNPCETCPPVNSTEYYTLCPGGEGFR
+Homo_sapiens_Fibrillin_2              KFGPRGD-GSLSCNTEIGVGVSRSSCCCSLGKAWGNPCETCPPVNSTEYYTLCPGGEGFR
+Mus_musculus_Fibrillin_1              DIRPRGDNGDTACSNEIGVGVSKASCCCSLGKAWGTPCELCPSVNTSEYKILCPGGEGFR
+Sus_scrofa_Fibrillin_1                DVRPRGDNGDTACSNEIGVGVSKASCCCSLGKAWGTPCEQCPPVNTSEYKILCPGGEGFR
+Homo_sapiens_Fibrillin_1              DIRPRGDNGDTACSNEIGVGVSKASCCCSLGKAWGTPCEMCPAVNTSEYKILCPGGEGFR
+NM_000138.5_ORF2                      DIRPRGDNGDTACSNEIGVGVSKASCCCSLGKAWGTPCEMCPAVNTSEYKILCPGGEGFR
+Bos_taurus_Fibrillin_1                DIRPRGDNGDTACSNEIGVGVSKASCCCSLGKAWGTPCELCPPVNTSEYKILCPGGEGFR
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      --------EDINECLEDKSVCQRGDCINTAGSYDCTCPDGFQLD-DNKTCQDINEC-EHP
+Mus_musculus_Latent_transforming      --------EDINECLEDSSVCQGGDCINTAGSYDCTCPDGFQLN-DNKGCQDINEC-AQP
+Rattus_norvegicus_Latent_transfo      --------EDINECLEDSSVCQGGDCINTAGSYDCTCPDGLQLN-DNKGCQDINEC-AQP
+Homo_sapiens_Fibrillin_3              PNRITVILEDIDECQELPGLCQGGDCVNTFGSFQCECPPGYHLSEHTRICEDIDECSTHS
+Mus_musculus_Fibrillin_2              PNPITIILEDIDECQELPGLCQGGNCINTFGSFQCECPQGYYLSEETRICEDIDECFAHP
+Homo_sapiens_Fibrillin_2              PNPITIILEDIDECQELPGLCQGGNCINTFGSFQCECPQGYYLSEDTRICEDIDECFAHP
+Mus_musculus_Fibrillin_1              PNPITVILEDIDECQELPGLCQGGKCINTFGSFQCRCPTGYYLNEDTRVCDDVNEC-ETP
+Sus_scrofa_Fibrillin_1                PNPITVILEDIDECQELPGLCQGGKCINTFGSFQCRCPTGYYLNEDTRVCDDVNEC-ETP
+Homo_sapiens_Fibrillin_1              PNPITVILEDIDECQELPGLCQGGKCINTFGSFQCRCPTGYYLNEDTRVCDDVNEC-ETP
+NM_000138.5_ORF2                      PNPITVILEDIDECQELPGLCQGGKCINTFGSFQCRCPTGYYLNEDTRVCDDVNEC-ETP
+Bos_taurus_Fibrillin_1                PNPITVILEDIDECQELPGLCQGGKCINTFGSFQCRCPTGYYLNEDTRVCDDVNEC-ETP
+                                              ***:** *  .:** *.*:** **::* ** *  *.  .. *:*::**   .
+
+Homo_sapiens_Latent_transforming      GLCGP-------------------------------------------------------
+Mus_musculus_Latent_transforming      GLCGS-------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      GLCAP-------------------------------------------------------
+Homo_sapiens_Fibrillin_3              GICGPGTCYNTLGNYTCVCPAEYLQVNGGNNCMDMRKSVCFRHY---NGTCQNELAFNVT
+Mus_musculus_Fibrillin_2              GVCGPGTCYNTLGNYTCICPPEYMQVNGGHNCMDMRKSFCYRSY--NGTTCENELPFNVT
+Homo_sapiens_Fibrillin_2              GVCGPGTCYNTLGNYTCICPPEYMQVNGGHNCMDMRKSFCYRSY--NGTTCENELPFNVT
+Mus_musculus_Fibrillin_1              GICGPGTCYNTVGNYTCICPPDYMQVNGGNNCMDMRRSLCYRNYYADNQTCDGELLFNMT
+Sus_scrofa_Fibrillin_1                GICGPGTCYNTVGNYTCICPPDYMQVNGGNNCMDMRRSLCYRNYYADNQTCDGELLFNMT
+Homo_sapiens_Fibrillin_1              GICGPGTCYNTVGNYTCICPPDYMQVNGGNNCMDMRRSLCYRNYYADNQTCDGELLFNMT
+NM_000138.5_ORF2                      GICGPGTCYNTVGNYTCICPPDYMQVNGGNNCMDMRRSLCYRNYYADNQTCDGELLFNMT
+Bos_taurus_Fibrillin_1                GICGPGTCYNTVGNYTCICPPDYMQVNGGNNCMDMRRSLCYRNYYADNQTCDGELLFNMT
+                                      *:*..                                                       
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              RKMCCCSYNIGQAWNRPCEACPTPISPDYQILCGNQAPGFLTDIHTGKPLDIDECGEIPA
+Mus_musculus_Fibrillin_2              KRMCCCTYNVGKAWNKPCEPCPTPGTADFKTICGN-IPGFTFDIHTGKAVDIDECKEIPG
+Homo_sapiens_Fibrillin_2              KRMCCCTYNVGKAWNKPCEPCPTPGTADFKTICGN-IPGFTFDIHTGKAVDIDECKEIPG
+Mus_musculus_Fibrillin_1              KKMCCCSYNIGRAWNKPCEQCPIPSTDEFATLCGSQRPGFVIDIYTGLPVDIDECREIPG
+Sus_scrofa_Fibrillin_1                KKMCCCSYNIGRAWNKPCEQCPIPSTDEFATLCGSQRPGFVIDIYTGLPVDIDECREIPG
+Homo_sapiens_Fibrillin_1              KKMCCCSYNIGRAWNKPCEQCPIPSTDEFATLCGSQRPGFVIDIYTGLPVDIDECREIPG
+NM_000138.5_ORF2                      KKMCCCSYNIGRAWNKPCEQCPIPSTDEFATLCGSQRPGFVIDIYTGLPVDIDECREIPG
+Bos_taurus_Fibrillin_1                KKMCCCSYNIGRAWNKPCEQCPIPSTDEFATLCGSQRPGFVIDIYTGLPVDIDECREIPG
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              ICANGICINQIGSFRCECPAGFNYNSILLACEDVDECGSRESPCQQNADCINIPGSYRCK
+Mus_musculus_Fibrillin_2              ICANGVCINQIGSFRCECPTGFSYNDLLLVCEDIDECSNGDNLCQRNADCINSPGSYRCE
+Homo_sapiens_Fibrillin_2              ICANGVCINQIGSFRCECPTGFSYNDLLLVCEDIDECSNGDNLCQRNADCINSPGSYRCE
+Mus_musculus_Fibrillin_1              VCENGVCINMVGSFRCECPVGFFYNDKLLVCEDIDECQNG-PVCQRNAECINTAGSYRCD
+Sus_scrofa_Fibrillin_1                VCENGVCINMVGSFRCECPVGFFYNDKLLVCEDIDECQNG-PVCQRNAECINTAGSYRCD
+Homo_sapiens_Fibrillin_1              VCENGVCINMVGSFRCECPVGFFYNDKLLVCEDIDECQNG-PVCQRNAECINTAGSYRCD
+NM_000138.5_ORF2                      VCENGVCINMVGSFRCECPVGFFYNDKLLVCEDIDECQNG-PVCQRNAECINTAGSYRCD
+Bos_taurus_Fibrillin_1                VCENGVCINMVGSFRCECPVGFFYNDKLLVCEDIDECQNG-PVCQRNAECINTAGSYRCD
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ---------------------------QGECLNTEGSFHCVCQQGFSISADGRTCEDIDE
+Mus_musculus_Latent_transforming      ---------------------------HGECLNTQGSFHCVCEQGFSISADGRTCEDIDE
+Rattus_norvegicus_Latent_transfo      ---------------------------HGECLNTQGSFHCVCEQGFSISADGRTCEDIDE
+Homo_sapiens_Fibrillin_3              CTRGYKLSPGGACVGRNECREIPNVCSHGDCMDTEGSYMCLCHRGFQASADQTLCMDIDE
+Mus_musculus_Fibrillin_2              CAAGFKLSPNGACVDRNECLEIPNVCSHGLCVDLQGSYQCICNNGFKASQDQTMCMDVDE
+Homo_sapiens_Fibrillin_2              CAAGFKLSPNGACVDRNECLEIPNVCSHGLCVDLQGSYQCICHNGFKASQDQTMCMDVDE
+Mus_musculus_Fibrillin_1              CKPGYRLTSTGQCNDRNECQEIPNICSHGQCIDTVGSFYCLCHTGFKTNVDQTMCLDINE
+Sus_scrofa_Fibrillin_1                CKPGYRFTSTGQCNDRNECQEIPNICSHGQCIDTVGSFYCLCHTGFKTNADQTMCLDINE
+Homo_sapiens_Fibrillin_1              CKPGYRFTSTGQCNDRNECQEIPNICSHGQCIDTVGSFYCLCHTGFKTNDDQTMCLDINE
+NM_000138.5_ORF2                      CKPGYRFTSTGQCNDRNECQEIPNICSHGQCIDTVGSFYCLCHTGFKTNDDQTMCLDINE
+Bos_taurus_Fibrillin_1                CKPGYRFTSTGQCNDRNECQEIPNICSHGQCIDTVGSFYCLCHTGFKTNADQTMCLDINE
+                                                                 :* *::  **: *:*  **. . *   * *::*
+
+Homo_sapiens_Latent_transforming      C----VNNTVCDS----------HGF--------------------------CDNTAGSF
+Mus_musculus_Latent_transforming      C----VNNTVCDS----------HGF--------------------------CDNTAGSF
+Rattus_norvegicus_Latent_transfo      C----VNNTVCDS----------HGF--------------------------CDNTAGSF
+Homo_sapiens_Fibrillin_3              CDRQPCGNGTCKNIIGSYNCLCFPGFVVTHNGDCVDFDECTTLVGQVCRFGHCLNTAGSF
+Mus_musculus_Fibrillin_2              CERHPCGNGTCKNTVGSYNCLCYPGFELTHNNDCLDIDECSSFFGQVCRNGRCFNEIGSF
+Homo_sapiens_Fibrillin_2              CERHPCGNGTCKNTVGSYNCLCYPGFELTHNNDCLDIDECSSFFGQVCRNGRCFNEIGSF
+Mus_musculus_Fibrillin_1              CERDACGNGTCRNTIGSFNCRCNHGFILSHNNDCIDVDECATGNGNLCRNGQCVNTVGSF
+Sus_scrofa_Fibrillin_1                CERDACGNGTCRNTIGSFNCRCNHGFILSHNNDCIDVDECATGNGNLCRNGQCINTVGSF
+Homo_sapiens_Fibrillin_1              CERDACGNGTCRNTIGSFNCRCNHGFILSHNNDCIDVDECASGNGNLCRNGQCINTVGSF
+NM_000138.5_ORF2                      CERDACGNGTCRNTIGSFNCRCNHGFILSHNNDCIDVDECASGNGNLCRNGQCINTVGSF
+Bos_taurus_Fibrillin_1                CERDACGNGTCRNTIGSFNCRCNHGFILSHNNDCIDVDECATGNGNLCRNGQCINTVGSF
+                                      *     .* .* .           **                          * *  ***
+
+Homo_sapiens_Latent_transforming      RCLCYQGFQAPQDGQGCVDVNECELLSGVCGEAFCENVEGSFLCVC--------------
+Mus_musculus_Latent_transforming      RCLCYQGFQAPQDGQGCVDVNECELLSGVCGEAFCENVEGSFLCVC--------------
+Rattus_norvegicus_Latent_transfo      RCLCYQGFQAPQDGQGCVDVNECELLSGVCGEAFCENVEGSFLCVC--------------
+Homo_sapiens_Fibrillin_3              HCLCQDGFELTADGKNCVDTNECLSLAGTCLPGTCQNLEGSFRCICPPGFQVQSDHCIDI
+Mus_musculus_Fibrillin_2              KCLCNEGYELTPDGKNCIDTNECVALPGSCSPGTCQNLEGSFRCICPPGYEVRSENCIDI
+Homo_sapiens_Fibrillin_2              KCLCNEGYELTPDGKNCIDTNECVALPGSCSPGTCQNLEGSFRCICPPGYEVKSENCIDI
+Mus_musculus_Fibrillin_1              QCRCNEGYEVAPDGRTCVDINECVLDPGKCAPGTCQNLDGSYRCICPPGYSLQNDKCEDI
+Sus_scrofa_Fibrillin_1                QCQCNEGYEVAPDGRTCVDINECLLEPGKCAPGTCQNLDGSYRCICPPGYSLQNDKCEDI
+Homo_sapiens_Fibrillin_1              QCQCNEGYEVAPDGRTCVDINECLLEPRKCAPGTCQNLDGSYRCICPPGYSLQNEKCEDI
+NM_000138.5_ORF2                      QCQCNEGYEVAPDGRTCVDINECLLEPRKCAPGTCQNLDGSYRCICPPGYSLQNEKCEDI
+Bos_taurus_Fibrillin_1                QCQCNEGYEVAPDGRTCVDINECLLDPRKCAPGTCQNLDGSYRCICPPGYSLQNDKCEDI
+                                      .* * :*:: . **. *:* ***   .  *  . *:*::**: *:*              
+
+Homo_sapiens_Latent_transforming      --ADENQEY--------SPMTGQCRSRTSTDLDVDV--DQPKEEKKECYYNLNDASLCDN
+Mus_musculus_Latent_transforming      --ADENQEY--------SPMTGQCRSR---VTEDSGVDRQPREEKKECYYNLNDASLCDN
+Rattus_norvegicus_Latent_transfo      --ADENQEY--------SPMTGQCRSR---ATEDSGVDRQPKEEKKECYYNLNDASLCDN
+Homo_sapiens_Fibrillin_3              DECSEEPNLCLFGTCTNSPGSFQCLCPPGFVLSDNG--HRCFDTRQSFCFTRFEAGKCSV
+Mus_musculus_Fibrillin_2              NECDEDPNICLFGSCTNTPGGFQCICPPGFVLSDNG--RRCFDTRQSFCFTNFENGKCSV
+Homo_sapiens_Fibrillin_2              NECDEDPNICLFGSCTNTPGGFQCLCPPGFVLSDNG--RRCFDTRQSFCFTNFENGKCSV
+Mus_musculus_Fibrillin_1              DECVEEPEICALGTCSNTEGSFKCLCPEGFSLSSTG--RRCQDLRMSYCYAKFEGGKCSS
+Sus_scrofa_Fibrillin_1                DECVEEPEICALGTCSNTEGSFKCLCPDGFSLSSTG--RRCQDLRMSYCYAKFEGGKCSS
+Homo_sapiens_Fibrillin_1              DECVEEPEICALGTCSNTEGSFKCLCPEGFSLSSSG--RRCQDLRMSYCYAKFEGGKCSS
+NM_000138.5_ORF2                      DECVEEPEICALGTCSNTEGSFKCLCPEGFSLSSSG--RRCQDLRMSYCYAKFEGGKCSS
+Bos_taurus_Fibrillin_1                DECVEEPEICALGTCSNTEGSFKCLCPDGFSLSSTG--RRCQDLRMSYCYAKFEGGKCSS
+                                        . *: :         :    :* .      .      .  : . .  :   : . *. 
+
+Homo_sapiens_Latent_transforming      VLAPNVTKQECCCT--SGVGWGDNCEIFPCPVLGTAEFTEMCPKGKGFVPAGESSSEAGG
+Mus_musculus_Latent_transforming      VLAPNVTKQECCCT--SGAGWGDNCEIFPCPVQGTAEFTEMCPRGKGLVPAGESSYDTGG
+Rattus_norvegicus_Latent_transfo      VLAPNVTKQECCCT--SGAGWGDNCEIFPCPVQGTAEFSEMCPRGKGFVPAGESSYETGG
+Homo_sapiens_Fibrillin_3              PKAFNTTKTRCCCSKRPGEGWGDPCEL--CPQEGSAAFQELCPFGHGAVPGPDDSRE---
+Mus_musculus_Fibrillin_2              PKAFNTTKAKCCCSKMPGEGWGDPCEL--CPKDDEVAFQDLCPYGHGTVPSLHDTRE---
+Homo_sapiens_Fibrillin_2              PKAFNTTKAKCCCSKMPGEGWGDPCEL--CPKDDEVAFQDLCPYGHGTVPSLHDTRE---
+Mus_musculus_Fibrillin_1              PKSRNHSKQECCCA-LKGEGWGDPCEL--CPTEPDEAFRQICPFGSGIIVGPDDSAV---
+Sus_scrofa_Fibrillin_1                PKSRNHSKQECCCA-LKGEGWGDPCEL--CPTEPDEAFRQICPYGSGIIVGPDDSAV---
+Homo_sapiens_Fibrillin_1              PKSRNHSKQECCCA-LKGEGWGDPCEL--CPTEPDEAFRQICPYGSGIIVGPDDSAV---
+NM_000138.5_ORF2                      PKSRNHSKQECCCA-LKGEGWGDPCEL--CPTEPDEAFRQICPYGSGIIVGPDDSAV---
+Bos_taurus_Fibrillin_1                PKSRNHSKQECCCA-LKGEGWGDPCEL--CPTEPDEAFRQICPYGSGIIVGPDDSAV---
+                                        : * :*  ***:   * **** **:  **      * ::** * * : .  .:     
+
+Homo_sapiens_Latent_transforming      ENYKDADECLLFGQEICKNGFCLNTRPGYECYCKQGTYYDPVKLQCFDMDECQDPSSCID
+Mus_musculus_Latent_transforming      ENYKDADECLLFGEEICKNGYCLNTQPGYECYCKQGTYYDPVKLQCFDMDECQDPNSCID
+Rattus_norvegicus_Latent_transfo      ENYKDADECLLFGEEICKNGYCLNTQPGYECYCKEGTYYDPVKLQCFDMDECQDPNSCID
+Homo_sapiens_Fibrillin_3              ----DVNECAE-NPGVCTNGVCVNTDGSFRCECPFGYSLDFTGINCVDTDECSVGHPCGQ
+Mus_musculus_Fibrillin_2              ----DVNECLE-SPGICSNGQCINTDGSFRCECPMGYNLDYTGVRCVDTDECSIGNPCGN
+Homo_sapiens_Fibrillin_2              ----DVNECLE-SPGICSNGQCINTDGSFRCECPMGYNLDYTGVRCVDTDECSIGNPCGN
+Mus_musculus_Fibrillin_1              ----DMDECKE--PDVCRHGQCINTDGSYRCECPFGYILE--GNECVDTDECSVGNPCGN
+Sus_scrofa_Fibrillin_1                ----DMDECKE--PDVCKHGQCINTDGSYRCECPFGYILE--GNECVDTDECSVGNPCGN
+Homo_sapiens_Fibrillin_1              ----DMDECKE--PDVCKHGQCINTDGSYRCECPFGYILA--GNECVDTDECSVGNPCGN
+NM_000138.5_ORF2                      ----DMDECKE--PDVCKHGQCINTDGSYRCECPFGYILA--GNECVDTDECSVGNPCGN
+Bos_taurus_Fibrillin_1                ----DMDECKE--PDVCKHGQCINTDGSYRCECPFGYILQ--GNECVDTDECSVGNPCGN
+                                          * :**      :* :* *:**  .: * *  *         *.* ***.   .* :
+
+Homo_sapiens_Latent_transforming      G----------------------------------------QCVNTEGSYNCFCTHPMVL
+Mus_musculus_Latent_transforming      G----------------------------------------QCVNTEGSYNCFCTHPMVL
+Rattus_norvegicus_Latent_transfo      G----------------------------------------QCVNTEGSYNCFCTHPMVL
+Homo_sapiens_Fibrillin_3              GTCTNVIGGFECACADGFEPGLMMTCEDIDECSLNPLLCAFRCHNTEGSYLCTCPAGYTL
+Mus_musculus_Fibrillin_2              GTCTNVIGSFECTCNEGFEPGPMMNCEDINECAQNPLLCAFRCMNTFGSYECTCPVGYAL
+Homo_sapiens_Fibrillin_2              GTCTNVIGSFECNCNEGFEPGPMMNCEDINECAQNPLLCAFRCMNTFGSYECTCPIGYAL
+Mus_musculus_Fibrillin_1              GTCKNVIGGFECTCEEGFEPGPMMTCEDINECAQNPLLCAFRCVNTYGSYECKCPVGYVL
+Sus_scrofa_Fibrillin_1                GTCKNVIGGFECTCEEGFEPGPMMTCEDINECAQNPLLCAFRCVNTYGSYECKCPTGYVL
+Homo_sapiens_Fibrillin_1              GTCKNVIGGFECTCEEGFEPGPMMTCEDINECAQNPLLCAFRCVNTYGSYECKCPVGYVL
+NM_000138.5_ORF2                      GTCKNVIGGFECTCEEGFEPGPMMTCEDINECAQNPLLCAFRCVNTYGSYECKCPVGYVL
+Bos_taurus_Fibrillin_1                GTCKNVIGGFECTCEEGFEPGPMMTCEDINECAQNPLLCAFRCVNTYGSYECKCPAGYVL
+                                      *                                        .* ** *** * *.   .*
+
+Homo_sapiens_Latent_transforming      DASEKRCIRPAESNEQIEETDVYQDLCWEHLSDEYVC-------SRPLVGK---------
+Mus_musculus_Latent_transforming      DASEKRCVQPTESNEQIEETDVYQDLCWEHLSEEYVC-------SRPLVGK---------
+Rattus_norvegicus_Latent_transfo      DASEKRCVQPTESNEQIEETDVYQDLCWEHLSEEYVC-------SRPLVGK---------
+Homo_sapiens_Fibrillin_3              REDGAMCRDVDECADGQQDCHARGMEC-KNLIGTFACVCPPGMRPLPGSGEGCTDDNECH
+Mus_musculus_Fibrillin_2              REDQKMCKDLDECAEGLHDCESRGMMC-KNLIGTFMCICPPGMARRP-DGEGCVDENECR
+Homo_sapiens_Fibrillin_2              REDQKMCKDLDECAEGLHDCESRGMMC-KNLIGTFMCICPPGMARRP-DGEGCVDENECR
+Mus_musculus_Fibrillin_1              REDRRMCKDEDECAEGKHDCTEKQMEC-KNLIGTYMCICGPGYQRRP-DGEGCIDENECQ
+Sus_scrofa_Fibrillin_1                REDRRMCKDEDECEEGKHDCAEKQMEC-KNLIGMYICICGPGYQRRP-DGEGCVDENECQ
+Homo_sapiens_Fibrillin_1              REDRRMCKDEDECEEGKHDCTEKQMEC-KNLIGTYMCICGPGYQRRP-DGEGCVDENECQ
+NM_000138.5_ORF2                      REDRRMCKDEDECEEGKHDCTEKQMEC-KNLIGTYMCICGPGYQRRP-DGEGCVDENECQ
+Bos_taurus_Fibrillin_1                REDRRMCKDEDECEEGKHDCAEKQMEC-KNLIGTYLCICGPGYQRRP-DGEGCVDENECQ
+                                        .   *    *. :   :       * ::*   : *         *  *:         
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              AQPDLCVNGRCVNTAGSFRCDCDEGFQPSPTLTECHDIRQGPCFAEVLQTMCRSLSSSSE
+Mus_musculus_Fibrillin_2              TKPGICENGRCVNIIGSYRCECNEGFQSSSSGTECLDNRQGLCFAEVLQTMCQMASSSRN
+Homo_sapiens_Fibrillin_2              TKPGICENGRCVNIIGSYRCECNEGFQSSSSGTECLDNRQGLCFAEVLQTICQMASSSRN
+Mus_musculus_Fibrillin_1              TKPGICENGRCLNTLGSYTCECNDGFTASPTQDECLDNREGYCFSEVLQNMCQIGSSNRN
+Sus_scrofa_Fibrillin_1                TKPGICENGRCLNTRGSYTCECNDGFTASPTQDECLDNREGYCFTEVLQNMCQIGSSNRN
+Homo_sapiens_Fibrillin_1              TKPGICENGRCLNTRGSYTCECNDGFTASPNQDECLDNREGYCFTEVLQNMCQIGSSNRN
+NM_000138.5_ORF2                      TKPGICENGRCLNTRGSYTCECNDGFTASPNQDECLDNREGYCFTEVLQNMCQIGSSNRN
+Bos_taurus_Fibrillin_1                TKPGICENGRCLNTRGSYTCECNDGFTASPNQDECLDNREGYCFTEVLQNMCQIGSSNRN
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      QTTYTECCCLYGEAWGMQCALCPLKDSDDYAQLC--------------------NIPVTG
+Mus_musculus_Latent_transforming      QTTYTECCCLYGEAWGMQCALCPMKDSDDYAQLC--------------------NIPVTG
+Rattus_norvegicus_Latent_transfo      QTTYTECCCLYGEAWGMQCALCPMKDSDDYAQLC--------------------NIPVTG
+Homo_sapiens_Fibrillin_3              AVTRAECCCGGGRGWGPRCELCPLPGTSAYRKLCPHGSGYTAEGRDVDECRMLAHLCAHG
+Mus_musculus_Fibrillin_2              LVTKSECCCDGGRGWGHQCELCPLPGTAQYKKICPHGPGYATDGRDIDECKVMPSLCTNG
+Homo_sapiens_Fibrillin_2              LVTKSECCCDGGRGWGHQCELCPLPGTAQYKKICPHGPGYTTDGRDIDECKVMPNLCTNG
+Mus_musculus_Fibrillin_1              PVTKSECCCDGGRGWGPHCEICPFEGTVAYKKLCPHGRGFMTNGADIDECKVIHDVCRNG
+Sus_scrofa_Fibrillin_1                PVTKSECCCDGGRGWGPHCEICPFQGTVAFKKLCPHGRGFMTNGADIDECKVIHDVCRNG
+Homo_sapiens_Fibrillin_1              PVTKSECCCDGGRGWGPHCEICPFQGTVAFKKLCPHGRGFMTNGADIDECKVIHDVCRNG
+NM_000138.5_ORF2                      PVTKSECCCDGGRGWGPHCEICPFQGTVAFKKLCPHGRGFMTNGADIDECKVIHDVCRNG
+Bos_taurus_Fibrillin_1                PVTKSECCCDGGRGWGPHCEICPFQGTVAFKKLCPHGRGFMTNGADIDECKVIHDVCRNG
+                                       .* :****  * .** .* :**: .:  : ::*                     :   *
+
+Homo_sapiens_Latent_transforming      R------------RQPYGRD----ALVDFSEQYTPEADPYFIQDRFLNSFE---------
+Mus_musculus_Latent_transforming      R------------RRPYGRD----ALVDFSEQYGPETDPYFIQDRFLNSFE---------
+Rattus_norvegicus_Latent_transfo      R------------RRPYGRD----ALVDFSEQYGPETDPYFIQDRFLNSFE---------
+Homo_sapiens_Fibrillin_3              ECINSLGSFRCHCQAGYTPDATATTCLDMDECSQVPKPCTFLCKNTKGSFLCSCPRGYLL
+Mus_musculus_Fibrillin_2              QCVNTMGSFRCFCKVGYTTDISGTACVDLDECSQSPKPCNFICKNTKGSYQCSCPRGYVL
+Homo_sapiens_Fibrillin_2              QCINTMGSFRCFCKVGYTTDISGTSCIDLDECSQSPKPCNYICKNTEGSYQCSCPRGYVL
+Mus_musculus_Fibrillin_1              ECVNDRGSYHCICKTGYTPDITGTACVDLNECNQAPKPCNFICKNTEGSYQCSCPKGYIL
+Sus_scrofa_Fibrillin_1                ECINDRGSYHCICKTGYTPDITGTACVDLNECNQAPKPCNFICKNTEGSYQCSCPKGYIL
+Homo_sapiens_Fibrillin_1              ECVNDRGSYHCICKTGYTPDITGTSCVDLNECNQAPKPCNFICKNTEGSYQCSCPKGYIL
+NM_000138.5_ORF2                      ECVNDRGSYHCICKTGYTPDITGTSCVDLNECNQAPKPCNFICKNTEGSYQCSCPKGYIL
+Bos_taurus_Fibrillin_1                ECVNDRGSYHCICKTGYTPDITGTACVDLNECNQAPKPCNFICKNTEGSYQCSCPKGYIL
+                                                   .  *  *    : :*:.*         :: ..  .*:          
+
+Homo_sapiens_Latent_transforming      ELQAEECGILNGCE----------------------------------------------
+Mus_musculus_Latent_transforming      ELQAEECGILNGCE----------------------------------------------
+Rattus_norvegicus_Latent_transfo      ELQAEECGILNGCE----------------------------------------------
+Homo_sapiens_Fibrillin_3              EEDGRTCKDLDECTSRQHNCQFLCVNTVGAFTCRCPPGFTQHHQACFDNDECSAQPGPCG
+Mus_musculus_Fibrillin_2              QEDGKTCKDLDECQTKQHNCQFLCVNTLGGFTCKCPPGFTQHHTACIDNNECGSQPSLCG
+Homo_sapiens_Fibrillin_2              QEDGKTCKDLDECQTKQHNCQFLCVNTLGGFTCKCPPGFTQHHTACIDNNECGSQPSLCG
+Mus_musculus_Fibrillin_1              QEDGRSCKDLDECATKQHNCQFLCVNTIGGFTCKCPPGFTQHHTACIDNNECTSDINLCG
+Sus_scrofa_Fibrillin_1                QEDGRSCKDLDECATKQHNCQFLCVNTIGSFACKCPPGFTQHHTACIDNNECTSDINLCG
+Homo_sapiens_Fibrillin_1              QEDGRSCKDLDECATKQHNCQFLCVNTIGGFTCKCPPGFTQHHTSCIDNNECTSDINLCG
+NM_000138.5_ORF2                      QEDGRSCKDLDECATKQHNCQFLCVNTIGGFTCKCPPGFTQHHTSCIDNNECTSDINLCG
+Bos_taurus_Fibrillin_1                QEDGRSCKDLDECATKQHNCQFLCVNTIGSFTCKCPPGFTQHHTACIDNNECTSDINLCG
+                                      : :.  *  *: *                                               
+
+Homo_sapiens_Latent_transforming      -NGRCVRVQEGYTCDCFDGYHLDTAKMTCVDVNECDELN---------------------
+Mus_musculus_Latent_transforming      -NGRCVRVQEGYTCDCFDGYHLDMAKMTCVDVNECSELN---------------------
+Rattus_norvegicus_Latent_transfo      -NGRCVRVQEGYTCDCFDGYHLDMAKMTCVDVNECSELN---------------------
+Homo_sapiens_Fibrillin_3              AHGHCHNTPGSFRCECHQGFTLVSSGHGCEDVNECDGPHRCQHGCQNQLGGYRCSCPQGF
+Mus_musculus_Fibrillin_2              AKGICQNTPGSFSCECQRGFSLDASGLNCEDVDECDGNHRCQHGCQNILGGYRCGCPQGY
+Homo_sapiens_Fibrillin_2              AKGICQNTPGSFSCECQRGFSLDATGLNCEDVDECDGNHRCQHGCQNILGGYRCGCPQGY
+Mus_musculus_Fibrillin_1              SKGVCQNTPGSFTCECQRGFSLDQSGASCEDVDECEGNHRCQHGCQNIIGGYRCSCPQGY
+Sus_scrofa_Fibrillin_1                AKGICQNTPGSFTCECQRGFSLDQSGASCEDVDECEGNHRCQHGCQNIIGGYRCSCPQGY
+Homo_sapiens_Fibrillin_1              SKGICQNTPGSFTCECQRGFSLDQTGSSCEDVDECEGNHRCQHGCQNIIGGYRCSCPQGY
+NM_000138.5_ORF2                      SKGICQNTPGSFTCECQRGFSLDQTGSSCEDVDECEGNHRCQHGCQNIIGGYRCSCPQGY
+Bos_taurus_Fibrillin_1                SKGICQNTPGSFTCECQRGFSLDPSGASCEDVDECEGNHRCQHGCQNIIGGYRCSCPQGY
+                                       :* * ..  .: *:*  *: *  :   * **:**.  :                     
+
+Homo_sapiens_Latent_transforming      ----------------NRMSLCKNAKCINTDGSYKCLCLPGY------------------
+Mus_musculus_Latent_transforming      ----------------NRMSLCKNAKCINTEGSYKCLCLPGY------------------
+Rattus_norvegicus_Latent_transfo      ----------------NRMSLCKNAKCINTEGSYKCVCLPGY------------------
+Homo_sapiens_Fibrillin_3              TQHSQWAQCVDENECALSPPTCGSASCRNTLGGFRCVCPSGFDFDQALGGCQEVDECAGR
+Mus_musculus_Fibrillin_2              VQHYQWNQCVDENEC-SNPGACGSASCYNTLGSYKCACPSGFSFDQFSSACHDVNECSSS
+Homo_sapiens_Fibrillin_2              IQHYQWNQCVDENEC-SNPNACGSASCYNTLGSYKCACPSGFSFDQFSSACHDVNECSSS
+Mus_musculus_Fibrillin_1              LQHYQWNQCVDENEC-LSAHVCGGASCHNTLGSYKCMCPTGFQYEQFSGGCQDINECGSS
+Sus_scrofa_Fibrillin_1                LQHYQWNQCVDENEC-LSAHICGGASCHNTLGSYKCMCPAGFQYEQFSGGCQDINECGSS
+Homo_sapiens_Fibrillin_1              LQHYQWNQCVDENEC-LSAHICGGASCHNTLGSYKCMCPAGFQYEQFSGGCQDINECGSA
+NM_000138.5_ORF2                      LQHYQWNQCVDENEC-LSAHICGGASCHNTLGSYKCMCPAGFQYEQFSGGCQDINECGSA
+Bos_taurus_Fibrillin_1                LQHYQWNQCVDENEC-LSAHICGGASCHNTLGSYKCMCPAGFQYEQFSGGCQDINECGSA
+                                                           * .*.* ** *.:.* * .*:                  
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              RGPCSYSCANTPGGFLCGCPQGYFRAGQGHCVSGLGFSPG----PQ-DTPDKEELLSSEA
+Mus_musculus_Fibrillin_2              KNPCSYGCSNTEGGYLCGCPPGYFRVGQGHCVSGMGFNKGQYLSVDAEAEDDENALSPEA
+Homo_sapiens_Fibrillin_2              KNPCNYGCSNTEGGYLCGCPPGYYRVGQGHCVSGMGFNKGQYLSLD-TEVDEENALSPEA
+Mus_musculus_Fibrillin_1              QAPCSYGCSNTEGGYLCGCPPGYFRIGQGHCVSGMGMGRGGPEPPA-SSEMDDNSLSPEA
+Sus_scrofa_Fibrillin_1                QAPCSYGCSNTEGGYLCGCPPGYFRIGQGHCVSGMGMGRGSPEPPA-SGEMDDNSLSPEA
+Homo_sapiens_Fibrillin_1              QAPCSYGCSNTEGGYLCGCPPGYFRIGQGHCVSGMGMGRGNPEPPV-SGEMDDNSLSPEA
+NM_000138.5_ORF2                      QAPCSYGCSNTEGGYLCGCPPGYFRIGQGHCVSGMGMGRGNPEPPV-SGEMDDNSLSPEA
+Bos_taurus_Fibrillin_1                QAPCSYGCSNTEGGYLCACPPGYFRIGQGHCVSGMGMGRGNPEPPA-SGEMDDNSLSPEA
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              CYECKINGLSPR-DRPRRSAHRDHQ------------VNLATLDSEALLTLGLNLSHLGR
+Mus_musculus_Fibrillin_2              CYECKINGYTKKDGRRKRSAQEPEPASAEEQ------ISLESVAMDSPVNMKFNLSGLGS
+Homo_sapiens_Fibrillin_2              CYECKINGYSKKDSRQKRSIHEPDPTAVEQ-------ISLESVDMDSPVNMKFNLSHLGS
+Mus_musculus_Fibrillin_1              CYECKINGYPKR-GRKRRSTNETDASDIQDGSEMEANVSLASWDVEKPASFAFNISHVNN
+Sus_scrofa_Fibrillin_1                CYECKINGYPKR-GRKRRSTNETDAFNIEDQPETESNVSLASWDVEKTAVFAFNISHISN
+Homo_sapiens_Fibrillin_1              CYECKINGYPKR-GRKRRSTNETDASNIEDQSETEANVSLASWDVEKTAIFAFNISHVSN
+NM_000138.5_ORF2                      CYECKINGYPKR-GRKRRSTNETDASNIEDQSETEANVSLASWDVEKTAIFAFNISHVSN
+Bos_taurus_Fibrillin_1                CYECKINGYPKR-GRKRRSANETDASNIEDQPEIEANVSLASWDVEKTAVFAFNISHISN
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ------------------------------------------------------------
+Mus_musculus_Latent_transforming      ------------------------------------------------------------
+Rattus_norvegicus_Latent_transfo      ------------------------------------------------------------
+Homo_sapiens_Fibrillin_3              AERILELRPALEGLEGRIRYVIVRGNEQGFFRMHHLRGVSSLQLGRRRPGPGTYRLEVVS
+Mus_musculus_Fibrillin_2              KEHILELVPAIEPLNNHIRYVISQGNEDGVFRIHQRNGLSYLHTAKKKLAPGTYTLEITS
+Homo_sapiens_Fibrillin_2              KEHILELRPAIQPLNNHIRYVISQGNDDSVFRIHQRNGLSYLHTAKKKLMPGTYTLEITS
+Mus_musculus_Fibrillin_1              KVRILELLPALTTLMNHNRYLIESGNEDGFFKINQKEGVSYLHFTKKKPVAGTYSLQISS
+Sus_scrofa_Fibrillin_1                KVRILELLPALTTLTNHNRYLIESGNENGFFKINQKEGISYLHFTKKKPVAGTYSLQISS
+Homo_sapiens_Fibrillin_1              KVRILELLPALTTLTNHNRYLIESGNEDGFFKINQKEGISYLHFTKKKPVAGTYSLQISS
+NM_000138.5_ORF2                      KVRILELLPALTTLTNHNRYLIESGNEDGFFKINQKEGISYLHFTKKKPVAGTYSLQISS
+Bos_taurus_Fibrillin_1                KVRILELLPALTTLTNHNRYLIESGNENGFFKINQKEGISYLHFTKKKPVAGTYSLQISS
+                                                                                                  
+
+Homo_sapiens_Latent_transforming      ----------------------------------------
+Mus_musculus_Latent_transforming      ----------------------------------------
+Rattus_norvegicus_Latent_transfo      ----------------------------------------
+Homo_sapiens_Fibrillin_3              ----------HMAGPWGVQPEGQPGPWGQALRLKVQLQL-
+Mus_musculus_Fibrillin_2              IPLYGKKELRKLEEHN--EDDYLLGVLGEALRMRLQIQLY
+Homo_sapiens_Fibrillin_2              IPLYKKKELKKLEESN--EDDYLLGELGEALRMRLQIQLY
+Mus_musculus_Fibrillin_1              TPLYKKKELNQLEDRY--DKDYLSGELGDNLKMKIQILLH
+Sus_scrofa_Fibrillin_1                TPLYKKKELNQLEDKY--DKDYLSGELGDNLKMKIQILLH
+Homo_sapiens_Fibrillin_1              TPLYKKKELNQLEDKY--DKDYLSGELGDNLKMKIQVLLH
+NM_000138.5_ORF2                      TPLYKKKELNQLEDKY--DKDYLSGELGDNLKMKIQVLLH
+Bos_taurus_Fibrillin_1                TPLYKKKELNQLEDKY--DKDYLSGELGDNLKMKIQILLH
+                                                                              
