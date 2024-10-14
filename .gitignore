@@ -163,3 +163,7 @@ cython_debug/
 
 # Custom
 .DS_Store
+swissprot*
+*.fasta
+*.xml
+*.clustal
