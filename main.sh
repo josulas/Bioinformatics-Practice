@@ -85,5 +85,14 @@ if [[ "$choice_3" -lt 1 || "$choice_3" -gt "${#output_files_2[@]}" ]]; then
     echo "Invalid choice. Exiting."
     exit 1
 fi
-
-selected_file_3 "${output_files_2[$((choice_3 - 1))]}"
+selected_file_3="${output_files_2[$((choice_3 - 1))]}"
+python3.10 exercise_3.py "$output_file_1" "$selected_file_3"
+exit_status_3=$?
+if [ $exit_status_3 -eq 0 ]; then
+    echo "Python script for exercise 3 completed successfully."
+    # echo "Generated file: $output_file_1"
+else
+    echo "Python script for exercise 3 failed with exit code $exit_status_3"
+    echo "Exiting"
+    exit $exit_status_3
+fi

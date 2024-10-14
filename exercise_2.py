@@ -104,14 +104,16 @@ if __name__ == "__main__":
     for index, sequence in enumerate(sequences):
         # Ejecución BLAST local
         output_file_local = f"{output_file_common}_local_{index + 1}.xml"
-        # run_local_blast(sequence, db_path, output_file_local)
+        if not os.path.exists(output_file_local):
+            run_local_blast(sequence, db_path, output_file_local)
         # Guardamos los top 10 hits de la búsqueda local
         fasta_file_local = f"{best_seq_fasta_file}_local_{index + 1}.fasta"
         parse_blast_xml(output_file_local, fasta_file_local)
         return_files.append(fasta_file_local)
         # Ejecución BLAST remota
         output_file_remote = f"{output_file_common}_remote_{index + 1}.xml"
-        # run_remote_blast(sequence, output_file_remote)
+        if not os.path.exists(output_file_remote):
+            run_remote_blast(sequence, output_file_remote)
         # Guardamos los top 10 hits de la búsqueda remota
         fasta_file_remote = f"{best_seq_fasta_file}_remote_{index + 1}.fasta"
         parse_blast_xml(output_file_remote, fasta_file_remote)

@@ -60,7 +60,7 @@ if __name__ == "__main__":
         elif order == 'false':
             verbose = False
         else:
-            print("Usage: python3 exercise_1.py <path_to_genbank_file> (optional) <verbose: true | false>")
+            print("Usage: python3 exercise_3.py <path_to_source_fasta_file> <path_to_target_sequences_fasta_file> (optional) <verbose: true | false>")
             sys.exit(1)
     else:
         verbose = False
