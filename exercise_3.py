@@ -67,7 +67,7 @@ if __name__ == "__main__":
     source_seqs_file = sys.argv[1]
     target_seqs_file = sys.argv[2]
 
-    process_id = lambda seq: "_".join(seq.description.replace("RecName: ", "").replace(";","").split(" "))
+    process_id = lambda seq: "".join(seq.description.split(";")[0].replace("RecName: Full=", "").replace(" ", ""))
     sequence_list = []
     id_list = []
 
