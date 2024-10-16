@@ -1,0 +1,8 @@
+{
+    "primer_length_min": 18,
+    "primer_length_max": 24,
+    "gc_min": 50,
+    "gc_max": 60,
+    "melting_temp_max": 67,
+    "avoid_terminal_gc": true
+}
