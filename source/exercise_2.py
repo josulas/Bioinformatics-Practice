@@ -89,7 +89,7 @@ def run_remote_blast(sequence: str, output_file_name: str, verbose: bool = False
 
 if __name__ == "__main__":
     # Rutas y nombres
-    db_path = "swissprot_db"
+    db_path = "./blast_database/swissprot_db"
     output_file_common = "blast_output"
     best_seq_fasta_file = "bests"
     # Obtenemos el nombre del archivo desde sys

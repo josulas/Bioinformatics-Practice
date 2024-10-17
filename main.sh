@@ -24,7 +24,7 @@ fi
 selected_file_1="${gb_files[$((choice-1))]}"
 echo "You selected: $selected_file_1"
 # Call excercise_1.py to find the ORFs
-output_file_1=$(python3.10 exercise_1.py "$selected_file_1")
+output_file_1=$(python3.10 source/exercise_1.py "$selected_file_1")
 exit_status_1=$?
 if [ $exit_status_1 -eq 0 ]; then
     echo "Python script for exercise 1 completed successfully."
@@ -37,20 +37,29 @@ fi
 
 # Exercise 2
 # Define the expected database files
+db_folder="blast_database"
 db_files=("swissprot" "swissprot_db.phr" "swissprot_db.pin" "swissprot_db.psq")
 # Function to check if all database files are present
 check_db_files() {
+    if [ ! -d "$db_folder" ]; then
+        return 1
+    fi
+    cd $db_folder
     for file in "${db_files[@]}"; do
         if [ ! -f "$file" ]; then
+            cd ..
             return 1  # Return 1 if any file is missing
         fi
     done
+    cd ..
     return 0  # Return 0 if all files are present
 }
 # Check if the swissprot database is already downloaded and formatted
 if (! check_db_files ); then
     echo "SwissProt database not found. Downloading and formatting..."
-    ./load_and_prepare_db.sh
+    mkdir $db_folder
+    ./source/load_and_prepare_db.sh
+    mv swissprot* $db_folder
     # Recheck if the files were successfully created
     if check_db_files; then
         echo "SwissProt database downloaded and formatted successfully."
@@ -60,12 +69,12 @@ if (! check_db_files ); then
         exit 1
     fi
 fi
-output_files_2_string=$(python3.10 exercise_2.py "$output_file_1")
+output_files_2_string=$(python3.10 source/exercise_2.py "$output_file_1")
 IFS=' ' read -r -a output_files_2 <<< "$output_files_2_string"
 exit_status_2=$?
 if [ $exit_status_2 -eq 0 ]; then
     echo "Python script for exercise 2 completed successfully."
-    # echo "Generated file: $output_file_1"
+    echo "Best hits saved at: $output_files_2_string"
 else
     echo "Python script for exercise 2 failed with exit code $exit_status_2"
     echo "Exiting"
@@ -86,7 +95,7 @@ if [[ "$choice_3" -lt 1 || "$choice_3" -gt "${#output_files_2[@]}" ]]; then
     exit 1
 fi
 selected_file_3="${output_files_2[$((choice_3 - 1))]}"
-python3.10 exercise_3.py "$output_file_1" "$selected_file_3"
+python3.10 source/exercise_3.py "$output_file_1" "$selected_file_3"
 exit_status_3=$?
 if [ $exit_status_3 -eq 0 ]; then
     echo "Python script for exercise 3 completed successfully."
@@ -95,4 +104,47 @@ else
     echo "Python script for exercise 3 failed with exit code $exit_status_3"
     echo "Exiting"
     exit $exit_status_3
+fi
+
+# Exercise 4
+prosite_directory="prosite"
+if [ ! -d "$prosite_directory" ]; then
+    mkdir $prosite_directory
+    wget https://ftp.expasy.org/databases/prosite/prosite.doc -P $prosite_directory --quiet
+    if [ ! $? -eq 0 ]; then
+        echo "wget couldn't fetch prosite.doc file. Exiting"
+        exit 1
+    fi
+    wget https://ftp.expasy.org/databases/prosite/prosite.dat -P $prosite_directory --quiet
+    if [ ! $? -eq 0 ]; then
+        echo "wget couldn't fetch prosite.dat file. Exiting" 
+        exit 1
+    fi
+    echo admin | sudo -S prosextract -prositedir $prosite_directory -verbose N
+    if [ ! $? -eq 0 ]; then
+        echo "prosextract couldn't set up prosite. Exiting" 
+        exit 1
+    fi
+fi
+output_file_4=$(python3.10 source/exercise_4.py "$selected_file_1")
+exit_status_4=$?
+if [ $exit_status_4 -eq 0 ]; then
+    echo "Python script for exercise 4 completed successfully."
+    echo "Report created in: $output_file_4"
+else
+    echo "Python script for exercise 4 failed with exit code $exit_status_4"
+    echo "Exiting"
+    exit $exit_status_4
+fi
+
+#Exercise 5
+output_file_5=$(python3.10 source/exercise_5.py "$selected_file_1")
+exit_status_5=$?
+if [ $exit_status_5 -eq 0 ]; then
+    echo "Python script for exercise 5 completed successfully."
+    echo "Primers saved in: $output_file_5"
+else
+    echo "Python script for exercise 5 failed with exit code $exit_status_5"
+    echo "Exiting"
+    exit $exit_status_5
 fi

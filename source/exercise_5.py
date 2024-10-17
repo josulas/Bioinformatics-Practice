@@ -1,3 +1,19 @@
+import sys
+from typing import List
+from Bio import SeqIO
+
+
+def read_sequences_from_file(sequence_file: str) -> List[str]:
+    """
+    Reads all the sequences from the given files and returns them as a list of strings.
+    """
+    sequences = []
+    with open(sequence_file, 'r', encoding='UTF-8') as file:
+        for seq_record in SeqIO.parse(file, "genbank"):
+            sequences.append(str(seq_record.seq))
+    return sequences
+
+
 def gc_content(sequence):
     """Calcula el porcentaje de GC en una secuencia."""
     gc_count = sequence.count('G') + sequence.count('C')
@@ -9,6 +25,7 @@ def melting_temperature(sequence):
     gc_count = sequence.count('G') + sequence.count('C')
     at_count = sequence.count('A') + sequence.count('T')
     return 4 * gc_count + 2 * at_count
+
 
 def valid_ends(sequence):
     """Verifica que la secuencia no tenga G o C en los extremos."""
@@ -47,20 +64,26 @@ def generate_primers(transcript_sequence, config):
 import json
 
 def main():
+    if len(sys.argv) < 2:
+        print("Usage: python3 exercise_5.py <path_to_fasta_file>")
+        sys.exit(1)
+    sequence_file_name = sys.argv[1]
+    # Leer las secuencias desde el archivo
+    transcript_sequence = read_sequences_from_file(sequence_file_name)[0]
+
     # Leer archivo de configuración
     with open('parameters_5.json') as f:
         config = json.load(f)
     
-    # Secuencia del transcripto (Ejemplo)
-    #Aca hay que cambiar con el transcripto en concreo
-    transcript_sequence = "ATGCGTAGCTAGCTAGCTAGCTAGCTAGCTCGTAGCTCGATCGTAGCTAGCGT"
-    
     # Generar primers
     primers = generate_primers(transcript_sequence, config)
     
-    # Mostrar resultados
-    for primer in primers:
-        print(f"Primer: {primer['sequence']}, GC: {primer['gc_content']:.2f}%, Tm: {primer['tm']}°C")
+    # Guardar resultado
+    output_file_name = "primers.txt"
+    with open(output_file_name, 'w') as file:
+        for primer in primers:
+            file.write(f"Primer: {primer['sequence']}, GC: {primer['gc_content']:.2f}%, Tm: {primer['tm']}°C\n")
+    print(output_file_name)
 
 if __name__ == "__main__":
     main()
