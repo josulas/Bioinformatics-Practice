@@ -167,3 +167,9 @@ swissprot*
 *.fasta
 *.xml
 *.clustal
+prosite/
+*.dbmotif
+*.fa
+output/
+blast_database/
+*.txt
