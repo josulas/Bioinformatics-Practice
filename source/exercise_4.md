@@ -1,4 +1,4 @@
-# Análisis de Secuencias con EMBOSS
+# Ejercicio 4
 
 Este ejercicio tiene como objetivo realizar un análisis de secuencias biológicas utilizando herramientas de EMBOSS. A partir de un archivo de entrada en formato GenBank, el script identifica las secuencias de lectura abiertas (ORFs), encuentra la secuencia más larga y luego realiza un análisis de dominio sobre dicha secuencia.
 
