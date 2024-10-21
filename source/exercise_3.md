@@ -1,4 +1,4 @@
-# EJERCICIO 3
+# Ejercicio 3
 
 Este ejercicio se encarga de alinear secuencias de ADN o proteínas utilizando el programa MUSCLE. Se toma un conjunto de secuencias como entrada y se genera un archivo de salida que contiene las secuencias alineadas, ya sea en formato FASTA o CLUSTAL.
 
