@@ -173,3 +173,4 @@ prosite/
 output/
 blast_database/
 *.txt
+log/

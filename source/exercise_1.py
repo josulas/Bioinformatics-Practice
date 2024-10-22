@@ -1,16 +1,9 @@
 """
-Instructions:
-- The transcription GenBank file is stored in the variable SEQ_FILENAME. Modiy this variable to
-change which file is being read.
-- Execute the script in the same directory as the GenBank file.
-- The script will load the GenBank file, extract the translation (if present), 
-translate all the ORFs and save them to a .txt file. 
-It will then find the ORF that contains the extracted translation.
-- The script will save the specified ORF in FASTA format with the accession ID in the header. 
-To change which ORF is saved, modify the ORF_TO_SAVE variable.
+Instructions can be found in 'exercise_1.md'
 """
 
 import sys
+import os
 from Bio import SeqIO
 from Bio.Seq import Seq
 
@@ -142,7 +135,7 @@ class GenBankReader():
         return None
 
 
-    def save_orf_as_fasta(self, orf_index: int, verbose: bool = False):
+    def save_orf_as_fasta(self, orf_index: int, dir: str = r"./",verbose: bool = False):
         """
         Save the specified ORF in FASTA format with accession ID in the header
         """
@@ -169,29 +162,31 @@ class GenBankReader():
         else:
             print("\nThe trimmed sequence does NOT match the extracted translation.") if verbose else None
 
-        filename = f"{self.accession}_orf{orf_index}.fasta"
+        filename = os.path.join(dir, f"{self.accession}_orf{orf_index}.fasta")
         with open(filename, "w", encoding="UTF-8") as file:
             file.write(f">{self.accession} ORF{orf_index}\n{trimmed_sequence}\n")
         print(f"\nORF{orf_index} was successfully saved to '{filename}' starting from the first 'M'.") if verbose else None
-        print(filename) # output of the program!!!! 
+        return filename
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2 or len(sys.argv) > 3:
-        print("Usage: python3 exercise_1.py <path_to_genbank_file> (optional) <verbose: true | false>")
+    error_msg = "Usage: python3 exercise_1.py <path_to_genbank_file> <path_to_output_dir> (optional) <verbose: true | false>"
+    if len(sys.argv) < 3 or len(sys.argv) > 4:
+        print(error_msg)
         sys.exit(1)
-    if len(sys.argv) >= 3:
-        order = sys.argv[2]
-        if order == 'true':
+    if len(sys.argv) == 4:
+        verbose_order = sys.argv[3]
+        if verbose_order == 'true':
             verbose = True
-        elif order == 'false':
+        elif verbose_order == 'false':
             verbose = False
         else:
-            print("Usage: python3 exercise_1.py <path_to_genbank_file> (optional) <verbose: true | false>")
+            print(error_msg)
             sys.exit(1)
     else:
         verbose = False
     genbank_file_name = sys.argv[1]
+    output_dir = sys.argv[2]
     genbank_seq = GenBankReader(genbank_file_name)
     genbank_seq.extract_translation(verbose=verbose)
     matching_orf = genbank_seq.find_matching_orf(verbose=verbose)
@@ -199,7 +194,8 @@ if __name__ == "__main__":
         orfs = genbank_seq.translate_orfs(verbose=verbose)
         if verbose:
             print(f"\nTranslated sequence in the matching ORF:\n{orfs[matching_orf - 1]}")
-        genbank_seq.save_orf_as_fasta(matching_orf, verbose=verbose)
+        output_file = genbank_seq.save_orf_as_fasta(matching_orf, output_dir, verbose=verbose)
+        print(output_file)
         sys.exit(0)
     else:
         if verbose:

@@ -1,6 +1,6 @@
 # Ejercicio 1
 
-Este ejercicio consiste en leer un archivo GenBank, extraer la traducción de la secuencia de nucleótidos, traducir todas las Regiones Abiertas de Lectura (ORFs) y guardar una de ellas en formato FASTA (elegimos aquella que se expresa en la practica).
+Este ejercicio consiste en leer un archivo GenBank, extraer la traducción de la secuencia de nucleótidos, traducir todas las Regiones Abiertas de Lectura (ORFs) y guardar una de ellas en formato FASTA (elegimos aquella que se expresa en la práctica).
 
 ## Descripción
 
@@ -14,8 +14,9 @@ El script está diseñado para realizar las siguientes operaciones:
 
 ## Input
 
-- **Archivo GenBank**: El archivo especificado debe ser otorgado y debe estar en formato GenBank.
+1. `path_to_genbank_file`: El archivo especificado debe ser otorgado y debe estar en formato GenBank.
+2. `path_to_output_dir`: Ruta del directorio donde se guardarán los archivos de salida.
 
 ## Output
 
-- **Archivo FASTA**: Se guarda una ORF en formato FASTA con el ID de acceso en el encabezado. El nombre del archivo será `{accession_id}_orf{index}.fasta`.
+- **Archivo FASTA**: Se guarda una ORF en formato FASTA con el ID de acceso en el encabezado. El nombre del archivo será `{accession_id}_orf{index}.fasta`. Este será escrito en la carpeta `path_to_output_dir/`, y se se encuentra un archivo con el mismo nombre se reescribirá.

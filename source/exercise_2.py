@@ -1,11 +1,5 @@
 """
-This script reads sequences from FASTA files, 
-runs a local BLAST search for each sequence against a local database, 
-and runs a remote BLAST search for each sequence against the SwissProt database.
-The output of each BLAST search is saved in an XML file. Pay attention to:
-- The script should be run from its folder
-- .fasta files should be present in the folder in order to generate an output
-- A linux machine is required, with biopython and blast installed
+Instructions can be found in 'exercise_2.md'
 """
 
 import subprocess
@@ -90,13 +84,15 @@ def run_remote_blast(sequence: str, output_file_name: str, verbose: bool = False
 if __name__ == "__main__":
     # Rutas y nombres
     db_path = "./blast_database/swissprot_db"
-    output_file_common = "blast_output"
-    best_seq_fasta_file = "bests"
     # Obtenemos el nombre del archivo desde sys
-    if len(sys.argv) < 2:
-        print("Usage: python3 exercise_2.py <path_to_fasta_file>")
+    error_message = "Usage: python3 exercise_2.py <path_to_fasta_file> <path_to_output_dir>"
+    if len(sys.argv) < 3:
+        print(error_message)
         sys.exit(1)
     sequence_file_name = sys.argv[1]
+    output_dir = sys.argv[2]
+    output_file_common = os.path.join(output_dir, "blast_output")
+    best_seq_fasta_file = os.path.join(output_dir, "bests")
     # Leer las secuencias desde el archivo
     sequences = read_sequences_from_file(sequence_file_name)
     # Ejecutamos blast y guardamos el resultado

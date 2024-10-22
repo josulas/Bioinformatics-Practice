@@ -1,3 +1,7 @@
+"""
+Instructions can be found in 'exercise_3.md'
+"""
+
 import sys
 import subprocess
 import os
@@ -50,22 +54,24 @@ def run_muscle(input_fasta: str, output_file: str, output_mode: str = 'fasta', v
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3 or len(sys.argv) > 4:
-        print("Usage: python3 exercise_3.py <path_to_source_fasta_file> <path_to_target_sequences_fasta_file> (optional) <verbose: true | false>")
+    error_message = "Usage: python3 exercise_3.py <path_to_source_fasta_file> <path_to_target_sequences_fasta_file> <path_to_output_dir> (optional) <verbose: true | false>"
+    if len(sys.argv) < 4 or len(sys.argv) > 5:
+        print()
         sys.exit(1)
-    if len(sys.argv) >= 4:
-        order = sys.argv[3]
-        if order == 'true':
+    if len(sys.argv) == 5:
+        verbose_order = sys.argv[4]
+        if verbose_order == 'true':
             verbose = True
-        elif order == 'false':
+        elif verbose_order == 'false':
             verbose = False
         else:
-            print("Usage: python3 exercise_3.py <path_to_source_fasta_file> <path_to_target_sequences_fasta_file> (optional) <verbose: true | false>")
+            print(error_message)
             sys.exit(1)
     else:
         verbose = False
     source_seqs_file = sys.argv[1]
     target_seqs_file = sys.argv[2]
+    output_dir = sys.argv[3]
 
     process_id = lambda seq: "".join(seq.description.split(";")[0].replace("RecName: Full=", "").replace(" ", ""))
     sequence_list = []
@@ -90,11 +96,13 @@ if __name__ == "__main__":
         id_list.append(process_id(seq))
 
     input_fasta = ".msa_input"
-    output_fasta = "aligned_sequences.fasta"
-    output_clustal = "aligned_sequences.clustal"
+    output_fasta = os.path.join(output_dir, "aligned_sequences.fasta")
+    output_clustal = os.path.join(output_dir, "aligned_sequences.clustal")
+    output_files = [output_fasta, output_clustal]
 
     write_sequences_to_fasta(sequence_list, id_list, input_fasta)
     # Run MUSCLE to align the sequences
     run_muscle(input_fasta, output_fasta)
     run_muscle(input_fasta, output_clustal, 'clustal')
     os.remove(input_fasta)
+    print(" ".join(output_files))

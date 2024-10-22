@@ -18,7 +18,7 @@ Este script genera primers a partir de una secuencia de ADN en formato GenBank, 
    - Porcentaje mínimo y máximo de contenido de GC.
    - Temperatura máxima de melting (Tm).
    
-6. **Archivo de configuración**: El archivo `parameters_5.json` debe contener los siguientes parámetros:
+6. **Archivo de configuración**: El archivo `parameters_5.json` en la carpeta `./config/` debe contener los siguientes parámetros:
    ```json
    {
        "primer_length_min": <longitud mínima>,
@@ -30,10 +30,12 @@ Este script genera primers a partir de una secuencia de ADN en formato GenBank, 
 
 ## Input
 
-- **Archivo GenBank**: El script espera como primer argumento la ruta a un archivo en formato GenBank que contiene la secuencia de ADN
+1. `path_to_genbank_file`: El script espera como primer argumento la ruta a un archivo en formato GenBank que contiene la secuencia de ADN.
+
+2. `path_to_output_dir`: Ruta del directorio donde se guardarán los archivos de salida.
 
 - **Archivo de configuración JSON**: El script lee un archivo llamado parameters_5.json que contiene los parámetros necesarios para la generación de primers, como longitud mínima y máxima, contenido de GC y temperatura de melting.
 
 ## Output
 
-- **Archivo txt**: El script genera un archivo de texto llamado primers.txt que contiene una lista de los primers generados.
+- **Archivo txt**: El script genera un archivo de texto llamado `primers.txt` que contiene una lista de los primers generados.  Este será escrito en la carpeta `path_to_output_dir/`, y se se encuentra un archivo con el mismo nombre se reescribirá.

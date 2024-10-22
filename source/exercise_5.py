@@ -1,4 +1,9 @@
+"""
+Instructions can be found in 'exercise_5.md'
+"""
+
 import sys
+import os
 from typing import List
 from Bio import SeqIO
 
@@ -64,22 +69,24 @@ def generate_primers(transcript_sequence, config):
 import json
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python3 exercise_5.py <path_to_fasta_file>")
+    error_message = "Usage: python3 exercise_5.py <path_to_genbank_file> <path_to_output_dir>"
+    if len(sys.argv) < 3:
+        print(error_message)
         sys.exit(1)
     sequence_file_name = sys.argv[1]
+    output_dir = sys.argv[2]
     # Leer las secuencias desde el archivo
     transcript_sequence = read_sequences_from_file(sequence_file_name)[0]
 
     # Leer archivo de configuración
-    with open('parameters_5.json') as f:
+    with open(r'config/parameters_5.json') as f:
         config = json.load(f)
     
     # Generar primers
     primers = generate_primers(transcript_sequence, config)
     
     # Guardar resultado
-    output_file_name = "primers.txt"
+    output_file_name = os.path.join(output_dir, "primers.txt")
     with open(output_file_name, 'w') as file:
         for primer in primers:
             file.write(f"Primer: {primer['sequence']}, GC: {primer['gc_content']:.2f}%, Tm: {primer['tm']}°C\n")

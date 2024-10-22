@@ -1,3 +1,7 @@
+"""
+Instructions can be found in 'exercise_4.md'
+"""
+
 import sys
 import subprocess
 import os
@@ -46,22 +50,24 @@ def perform_domain_analysis(input_sequence: str, output_file_name: str):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2 or len(sys.argv) > 3:
-        print("Usage: python3 exercise_4.py <path_to_genbank_file> (optional) <verbose: true | false>")
+    error_message = "Usage: python3 exercise_4.py <path_to_genbank_file> <path_to_output_dir> (optional) <verbose: true | false>"
+    if len(sys.argv) < 3 or len(sys.argv) > 4:
+        print(error_message)
         sys.exit(1)
-    if len(sys.argv) >= 3:
-        order = sys.argv[2]
+    if len(sys.argv) == 4:
+        order = sys.argv[3]
         if order == 'true':
             verbose = True
         elif order == 'false':
             verbose = False
         else:
-            print("Usage: python3 exercise_4.py <path_to_genbank_file> (optional) <verbose: true | false>")
+            print(error_message)
             sys.exit(1)
     else:
         verbose = False
-    output_file_path = "motif_analysis.dbmotif"
     genbank_file_name = sys.argv[1]
+    output_dir = sys.argv[2]
+    output_file_path = os.path.join(output_dir, "motif_analysis.dbmotif")
     seqs = getORFs(genbank_file_name)
     most_likely_peptide = get_largest_seq(seqs)
     perform_domain_analysis(most_likely_peptide, output_file_path)

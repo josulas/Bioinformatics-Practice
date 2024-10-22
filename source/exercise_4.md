@@ -16,9 +16,10 @@ El script utiliza las siguientes herramientas y funciones:
 
 El script acepta un archivo de entrada en formato GenBank y puede recibir un argumento opcional para habilitar la salida detallada. El uso es el siguiente:
 
-- `<path_to_genbank_file>`: Ruta al archivo GenBank que contiene las secuencias a analizar.
-- `<verbose>` (opcional): Si se establece en `true`, proporciona salida detallada en la consola.
+- `path_to_genbank_file`: Ruta al archivo GenBank que contiene las secuencias a analizar.
+- `path_to_output_dir`: Ruta del directorio donde se guardarán los archivos de salida.
+- `verbose` (opcional): Si se establece en `true`, proporciona salida detallada en la consola.
 
 ## Output
 
-El resultado del script es un archivo llamado `motif_analysis.dbmotif`, que contiene los resultados del análisis de dominios. La ruta del archivo de salida se imprime en la consola al finalizar el script.
+El resultado del script es un archivo llamado `motif_analysis.dbmotif`, que contiene los resultados del análisis de dominios. La ruta del archivo de salida se imprime en la consola al finalizar el script. Este será escrito en la carpeta `path_to_output_dir/`, y se se encuentra un archivo con el mismo nombre se reescribirá.
