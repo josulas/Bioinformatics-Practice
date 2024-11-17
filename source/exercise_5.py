@@ -26,7 +26,7 @@ def gc_content(sequence):
 
 
 def melting_temperature(sequence):
-    """Calcula la temperatura de melting (Tm) usando la fórmula de Wallace."""
+    """Calcula la temperatura de melting (Tm)."""
     gc_count = sequence.count('G') + sequence.count('C')
     at_count = sequence.count('A') + sequence.count('T')
     return 4 * gc_count + 2 * at_count
