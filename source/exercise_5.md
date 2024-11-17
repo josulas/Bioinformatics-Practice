@@ -9,7 +9,7 @@ Este script genera primers a partir de una secuencia de ADN en formato GenBank, 
 
 2. **Cálculo del contenido de GC**: A través de la función `gc_content`, el script calcula el porcentaje de guanina (G) y citosina (C) en una secuencia de ADN.
 
-3. **Cálculo de la temperatura de melting (Tm)**: Utilizando la fórmula de Wallace, la función `melting_temperature` calcula la temperatura de melting de la secuencia.
+3. **Cálculo de la temperatura de melting (Tm)**: La función `melting_temperature` calcula la temperatura de melting de la secuencia.
 
 4. **Validación de extremos**: La función `valid_ends` verifica que el primer no comience ni termine con las bases G o C.
 
