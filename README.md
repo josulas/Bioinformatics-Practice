@@ -1,3 +1,5 @@
+## Introducción
+
 El presente repositorio tiene como finalidad hostear los ejercicios que se desarrollaron para el trabajo semestral de la asignatura de Bioinformática del Instituto Tecnológico de Buenos Aires. El objetivo principal del trabajo es utilizar herramientas bioinformáticas para el análisis de enfermedades genéticas en la población humana. 
 
 El flujo de trabajo consiste en seleccionar un archivo en formato GenBank (.gb), depositarlo en la carpeta *[input](https://github.com/josulas/Bioinformatics-Practice/tree/master/input)* sobre el que se realizarán:
