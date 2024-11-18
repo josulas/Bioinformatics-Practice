@@ -17,12 +17,12 @@ Los resultados de ejecutar cada paso se guardarán en una carpeta denominada *ou
 El código fue desarrollado enteramente dentro de [Ubuntu 20.04](https://releases.ubuntu.com/20.04/). Para poder correr el flujo de trabajo, se necesita contar con un entorno capaz de ejecutar bash, y las siguientes herramientas instaladas y correctamente configuradas:
 
 * Comandos nativos de muchos sistemas operativos basados en Linux: wget y gunzip
-* Python 3.11 o superior, junto con la librería de [BioPython](https://biopython.org/).
+* Python 3.10, junto con la librería de [BioPython](https://biopython.org/).
 * [MUSCLE](https://www.drive5.com/muscle5/), [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) y [EMBOSS](http://emboss.open-bio.org/)
 
-Para prepar las búsquedas locales y descargar la base de datos de [Prosite](https://prosite.expasy.org/) se necesita contar con conexión a internet. Para configurar [Prosite](https://prosite.expasy.org/), se necesita otorgar permisos de administrador, ya que _prosextract_ de EMBOSS modifica archivos en carpetas protegidas.
+Para prepar las búsquedas locales y descargar la base de datos de [Prosite](https://prosite.expasy.org/) se necesita contar con conexión a internet. Para configurar [Prosite](https://prosite.expasy.org/), se requiere otorgar permisos de administrador, ya que _prosextract_ de EMBOSS modifica archivos en carpetas protegidas.
 
-Una vez configurado el entorno de trabajo y habiendo clonado el repositorio, ejecutar _main_ desde la carpeta donde se ubica todo el repositorio, no en _[source](https://github.com/josulas/Bioinformatics-Practice/tree/master/source)_.
+Una vez configurado el entorno de trabajo y habiendo clonado el repositorio, ejecutar _main_ desde la carpeta donde se ubica todo el repositorio, no en _source_.
 
 ## Autores
 
